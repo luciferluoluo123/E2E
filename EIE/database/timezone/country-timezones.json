@@ -1,0 +1,365 @@
+{
+  "databaseVersion": "db-v1",
+  "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+  "collection": "countryTimezones",
+  "generatedBy": "Importer",
+  "generatedAt": "2026-05-30T17:29:59.284Z",
+  "records": [
+    {
+      "countryCode": "US",
+      "timezones": [
+        {
+          "timezone": "America/New_York",
+          "weight": 1
+        },
+        {
+          "timezone": "America/Chicago",
+          "weight": 1
+        },
+        {
+          "timezone": "America/Denver",
+          "weight": 1
+        },
+        {
+          "timezone": "America/Los_Angeles",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GB",
+      "timezones": [
+        {
+          "timezone": "Europe/London",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CA",
+      "timezones": [
+        {
+          "timezone": "America/Toronto",
+          "weight": 1
+        },
+        {
+          "timezone": "America/Vancouver",
+          "weight": 1
+        },
+        {
+          "timezone": "America/Edmonton",
+          "weight": 1
+        },
+        {
+          "timezone": "America/Winnipeg",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AU",
+      "timezones": [
+        {
+          "timezone": "Australia/Sydney",
+          "weight": 1
+        },
+        {
+          "timezone": "Australia/Melbourne",
+          "weight": 1
+        },
+        {
+          "timezone": "Australia/Brisbane",
+          "weight": 1
+        },
+        {
+          "timezone": "Australia/Perth",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "DE",
+      "timezones": [
+        {
+          "timezone": "Europe/Berlin",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "FR",
+      "timezones": [
+        {
+          "timezone": "Europe/Paris",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ES",
+      "timezones": [
+        {
+          "timezone": "Europe/Madrid",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IT",
+      "timezones": [
+        {
+          "timezone": "Europe/Rome",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NL",
+      "timezones": [
+        {
+          "timezone": "Europe/Amsterdam",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SE",
+      "timezones": [
+        {
+          "timezone": "Europe/Stockholm",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "JP",
+      "timezones": [
+        {
+          "timezone": "Asia/Tokyo",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KR",
+      "timezones": [
+        {
+          "timezone": "Asia/Seoul",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SG",
+      "timezones": [
+        {
+          "timezone": "Asia/Singapore",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "HK",
+      "timezones": [
+        {
+          "timezone": "Asia/Hong_Kong",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TW",
+      "timezones": [
+        {
+          "timezone": "Asia/Taipei",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BR",
+      "timezones": [
+        {
+          "timezone": "America/Sao_Paulo",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MX",
+      "timezones": [
+        {
+          "timezone": "America/Mexico_City",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AE",
+      "timezones": [
+        {
+          "timezone": "Asia/Dubai",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SA",
+      "timezones": [
+        {
+          "timezone": "Asia/Riyadh",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TR",
+      "timezones": [
+        {
+          "timezone": "Europe/Istanbul",
+          "weight": 1
+        }
+      ],
+      "source": "manual-rule-v1",
+      "confidence": "medium",
+      "reasons": [
+        "manual_seed_for_mvp_locale_generation"
+      ],
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "databaseVersion": "db-v1"
+    }
+  ]
+}

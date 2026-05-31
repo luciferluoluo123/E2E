@@ -1,0 +1,51 @@
+{
+  "databaseVersion": "db-v1",
+  "ruleVersion": "phase-4.2-hardware-rule-seed",
+  "collection": "hardwareCompatibility",
+  "generatedBy": "ManualRuleSeed",
+  "generatedAt": "2026-05-30T00:00:00.000Z",
+  "source": "manual-hardware-rule-v1",
+  "confidence": "medium",
+  "records": [
+    {
+      "id": "cpu-gpu-compatibility-v1",
+      "name": "CPU to GPU tier compatibility",
+      "type": "cpuGpu",
+      "source": "manual-hardware-rule-v1",
+      "confidence": "medium",
+      "matrix": {
+        "low": ["integrated", "low"],
+        "mid": ["integrated", "low", "mid"],
+        "high": ["low", "mid", "high"],
+        "extreme": ["mid", "high", "extreme"]
+      }
+    },
+    {
+      "id": "cpu-ram-compatibility-v1",
+      "name": "CPU to RAM tier compatibility",
+      "type": "cpuRam",
+      "source": "manual-hardware-rule-v1",
+      "confidence": "medium",
+      "matrix": {
+        "low": ["low", "mid"],
+        "mid": ["mid", "high"],
+        "high": ["high", "extreme"],
+        "extreme": ["high", "extreme"]
+      }
+    },
+    {
+      "id": "os-hardware-range-v1",
+      "name": "OS supported hardware tier range",
+      "type": "osHardware",
+      "source": "manual-hardware-rule-v1",
+      "confidence": "medium",
+      "matrix": {
+        "windows": {
+          "cpu": ["low", "mid", "high", "extreme"],
+          "gpu": ["integrated", "low", "mid", "high", "extreme"],
+          "ram": ["low", "mid", "high", "extreme"]
+        }
+      }
+    }
+  ]
+}

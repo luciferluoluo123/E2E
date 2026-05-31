@@ -1,0 +1,35 @@
+{
+  "databaseVersion": "db-v1",
+  "ruleVersion": "phase-4.4-browser-rule-v1",
+  "schemaVersion": "schema-v1",
+  "collection": "browserCompatibility",
+  "generatedBy": "ManualRuleSeed",
+  "source": "manual-browser-rule-v1",
+  "confidence": "medium",
+  "records": [
+    {
+      "id": "chrome-os-arch-v1",
+      "browser": "chrome",
+      "supportedOs": ["Windows10", "Windows11"],
+      "supportedArchitecture": ["x64"],
+      "source": "manual-browser-rule-v1",
+      "confidence": "medium"
+    },
+    {
+      "id": "edge-os-arch-v1",
+      "browser": "edge",
+      "supportedOs": ["Windows10", "Windows11"],
+      "supportedArchitecture": ["x64"],
+      "source": "manual-browser-rule-v1",
+      "confidence": "medium"
+    },
+    {
+      "id": "firefox-os-arch-v1",
+      "browser": "firefox",
+      "supportedOs": ["Windows10", "Windows11"],
+      "supportedArchitecture": ["x64"],
+      "source": "manual-browser-rule-v1",
+      "confidence": "medium"
+    }
+  ]
+}

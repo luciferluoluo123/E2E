@@ -1,0 +1,27 @@
+{
+  "databaseVersion": "db-v1",
+  "ruleVersion": "phase-4.4-browser-rule-v1",
+  "schemaVersion": "schema-v1",
+  "collection": "browserChrome",
+  "generatedBy": "ManualRuleSeed",
+  "source": "manual-browser-rule-v1",
+  "confidence": "medium",
+  "records": [
+    {
+      "id": "chrome-138",
+      "name": "Chrome",
+      "majorVersion": 138,
+      "weight": 80,
+      "source": "manual-browser-rule-v1",
+      "confidence": "medium"
+    },
+    {
+      "id": "chrome-137",
+      "name": "Chrome",
+      "majorVersion": 137,
+      "weight": 20,
+      "source": "manual-browser-rule-v1",
+      "confidence": "medium"
+    }
+  ]
+}

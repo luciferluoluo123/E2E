@@ -1,0 +1,3833 @@
+{
+  "databaseVersion": "db-v1",
+  "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+  "collection": "timezones",
+  "generatedBy": "Importer",
+  "generatedAt": "2026-05-30T17:29:59.283Z",
+  "records": [
+    {
+      "timezone": "America/Metlakatla",
+      "gmtOffset": "GMT-09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT+12",
+      "gmtOffset": "GMT-12:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT+11",
+      "gmtOffset": "GMT-11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Midway",
+      "gmtOffset": "GMT-11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Niue",
+      "gmtOffset": "GMT-11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Pago_Pago",
+      "gmtOffset": "GMT-11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Adak",
+      "gmtOffset": "GMT-10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT+10",
+      "gmtOffset": "GMT-10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "HST",
+      "gmtOffset": "GMT-10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Honolulu",
+      "gmtOffset": "GMT-10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Rarotonga",
+      "gmtOffset": "GMT-10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Tahiti",
+      "gmtOffset": "GMT-10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Marquesas",
+      "gmtOffset": "GMT-09:30",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Anchorage",
+      "gmtOffset": "GMT-09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Juneau",
+      "gmtOffset": "GMT-09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Nome",
+      "gmtOffset": "GMT-09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Sitka",
+      "gmtOffset": "GMT-09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Yakutat",
+      "gmtOffset": "GMT-09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT+9",
+      "gmtOffset": "GMT-09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Gambier",
+      "gmtOffset": "GMT-09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Los_Angeles",
+      "gmtOffset": "GMT-08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Tijuana",
+      "gmtOffset": "GMT-08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Vancouver",
+      "gmtOffset": "GMT-08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT+8",
+      "gmtOffset": "GMT-08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "PST8PDT",
+      "gmtOffset": "GMT-08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Pitcairn",
+      "gmtOffset": "GMT-08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Boise",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Cambridge_Bay",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Chihuahua",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Creston",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Dawson",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Dawson_Creek",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Denver",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Edmonton",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Fort_Nelson",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Hermosillo",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Inuvik",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Mazatlan",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Ojinaga",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Phoenix",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Whitehorse",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Yellowknife",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT+7",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "MST",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "MST7MDT",
+      "gmtOffset": "GMT-07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Bahia_Banderas",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Belize",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Chicago",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Costa_Rica",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/El_Salvador",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Guatemala",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Indiana/Knox",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Indiana/Tell_City",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Managua",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Matamoros",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Menominee",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Merida",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Mexico_City",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Monterrey",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/North_Dakota/Beulah",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/North_Dakota/Center",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/North_Dakota/New_Salem",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Rainy_River",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Rankin_Inlet",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Regina",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Resolute",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Swift_Current",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Tegucigalpa",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Winnipeg",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "CST6CDT",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT+6",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Galapagos",
+      "gmtOffset": "GMT-06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Atikokan",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Bogota",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Cancun",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Cayman",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Detroit",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Eirunepe",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Grand_Turk",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Guayaquil",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Havana",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Indiana/Indianapolis",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Indiana/Marengo",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Indiana/Petersburg",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Indiana/Vevay",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Indiana/Vincennes",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Indiana/Winamac",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Indianapolis",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Iqaluit",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Jamaica",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Kentucky/Louisville",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Kentucky/Monticello",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Lima",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Montreal",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Nassau",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/New_York",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Nipigon",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Panama",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Pangnirtung",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Port-au-Prince",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Rio_Branco",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Thunder_Bay",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Toronto",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "EST",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "EST5EDT",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT+5",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Easter",
+      "gmtOffset": "GMT-05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Anguilla",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Antigua",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Aruba",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Barbados",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Blanc-Sablon",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Boa_Vista",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Campo_Grande",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Caracas",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Cuiaba",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Curacao",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Dominica",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Glace_Bay",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Goose_Bay",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Grenada",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Guadeloupe",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Guyana",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Halifax",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Kralendijk",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/La_Paz",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Lower_Princes",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Manaus",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Marigot",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Martinique",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Moncton",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Montserrat",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Port_of_Spain",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Porto_Velho",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Puerto_Rico",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Santo_Domingo",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/St_Barthelemy",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/St_Kitts",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/St_Lucia",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/St_Thomas",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/St_Vincent",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Thule",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Tortola",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Atlantic/Bermuda",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT+4",
+      "gmtOffset": "GMT-04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/St_Johns",
+      "gmtOffset": "GMT-03:30",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Araguaina",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Argentina/Buenos_Aires",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Argentina/Catamarca",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Argentina/Cordoba",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Argentina/Jujuy",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Argentina/La_Rioja",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Argentina/Mendoza",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Argentina/Rio_Gallegos",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Argentina/Salta",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Argentina/San_Juan",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Argentina/San_Luis",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Argentina/Tucuman",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Argentina/Ushuaia",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Asuncion",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Bahia",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Belem",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Cayenne",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Fortaleza",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Godthab",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Maceio",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Miquelon",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Montevideo",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Nuuk",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Paramaribo",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Punta_Arenas",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Recife",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Santarem",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Santiago",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Sao_Paulo",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Antarctica/Palmer",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Antarctica/Rothera",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Atlantic/Stanley",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT+3",
+      "gmtOffset": "GMT-03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Noronha",
+      "gmtOffset": "GMT-02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Atlantic/South_Georgia",
+      "gmtOffset": "GMT-02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT+2",
+      "gmtOffset": "GMT-02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Scoresbysund",
+      "gmtOffset": "GMT-01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Atlantic/Azores",
+      "gmtOffset": "GMT-01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Atlantic/Cape_Verde",
+      "gmtOffset": "GMT-01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT+1",
+      "gmtOffset": "GMT-01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Abidjan",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Accra",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Bamako",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Banjul",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Bissau",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Conakry",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Dakar",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Freetown",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Lome",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Monrovia",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Nouakchott",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Ouagadougou",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Sao_Tome",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "America/Danmarkshavn",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Antarctica/Troll",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Atlantic/Canary",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Atlantic/Faroe",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Atlantic/Madeira",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Atlantic/Reykjavik",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Atlantic/St_Helena",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT+0",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-0",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT0",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/Greenwich",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/Universal",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/Zulu",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Dublin",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Guernsey",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Isle_of_Man",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Jersey",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Lisbon",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/London",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "GMT",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "UTC",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "WET",
+      "gmtOffset": "GMT+00:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Algiers",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Bangui",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Brazzaville",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Casablanca",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Ceuta",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Douala",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/El_Aaiun",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Kinshasa",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Lagos",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Libreville",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Luanda",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Malabo",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Ndjamena",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Niamey",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Porto-Novo",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Tunis",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Arctic/Longyearbyen",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "CET",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-1",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Amsterdam",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Andorra",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Belgrade",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Berlin",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Bratislava",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Brussels",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Budapest",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Busingen",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Copenhagen",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Gibraltar",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Ljubljana",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Luxembourg",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Madrid",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Malta",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Monaco",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Oslo",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Paris",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Podgorica",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Prague",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Rome",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/San_Marino",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Sarajevo",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Skopje",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Stockholm",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Tirane",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Vaduz",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Vatican",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Vienna",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Warsaw",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Zagreb",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Zurich",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "MET",
+      "gmtOffset": "GMT+01:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Blantyre",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Bujumbura",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Cairo",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Gaborone",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Harare",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Johannesburg",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Khartoum",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Kigali",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Lubumbashi",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Lusaka",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Maputo",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Maseru",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Mbabane",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Tripoli",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Windhoek",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Amman",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Beirut",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Damascus",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Famagusta",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Gaza",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Hebron",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Jerusalem",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Nicosia",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "EET",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-2",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Athens",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Bucharest",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Chisinau",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Helsinki",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Kaliningrad",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Kiev",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Mariehamn",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Nicosia",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Riga",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Sofia",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Tallinn",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Uzhgorod",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Vilnius",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Zaporozhye",
+      "gmtOffset": "GMT+02:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Addis_Ababa",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Asmara",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Dar_es_Salaam",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Djibouti",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Juba",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Kampala",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Mogadishu",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Africa/Nairobi",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Antarctica/Syowa",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Aden",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Baghdad",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Bahrain",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Istanbul",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Kuwait",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Qatar",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Riyadh",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-3",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Istanbul",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Kirov",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Minsk",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Moscow",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Simferopol",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Indian/Antananarivo",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Indian/Comoro",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Indian/Mayotte",
+      "gmtOffset": "GMT+03:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Tehran",
+      "gmtOffset": "GMT+03:30",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Baku",
+      "gmtOffset": "GMT+04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Dubai",
+      "gmtOffset": "GMT+04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Muscat",
+      "gmtOffset": "GMT+04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Tbilisi",
+      "gmtOffset": "GMT+04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Yerevan",
+      "gmtOffset": "GMT+04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-4",
+      "gmtOffset": "GMT+04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Astrakhan",
+      "gmtOffset": "GMT+04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Samara",
+      "gmtOffset": "GMT+04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Saratov",
+      "gmtOffset": "GMT+04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Ulyanovsk",
+      "gmtOffset": "GMT+04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Europe/Volgograd",
+      "gmtOffset": "GMT+04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Indian/Mahe",
+      "gmtOffset": "GMT+04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Indian/Mauritius",
+      "gmtOffset": "GMT+04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Indian/Reunion",
+      "gmtOffset": "GMT+04:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Kabul",
+      "gmtOffset": "GMT+04:30",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Antarctica/Mawson",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Aqtau",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Aqtobe",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Ashgabat",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Atyrau",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Dushanbe",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Karachi",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Oral",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Qyzylorda",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Samarkand",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Tashkent",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Yekaterinburg",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-5",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Indian/Kerguelen",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Indian/Maldives",
+      "gmtOffset": "GMT+05:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Calcutta",
+      "gmtOffset": "GMT+05:30",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Colombo",
+      "gmtOffset": "GMT+05:30",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Kolkata",
+      "gmtOffset": "GMT+05:30",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Kathmandu",
+      "gmtOffset": "GMT+05:45",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Katmandu",
+      "gmtOffset": "GMT+05:45",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Antarctica/Vostok",
+      "gmtOffset": "GMT+06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Almaty",
+      "gmtOffset": "GMT+06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Bishkek",
+      "gmtOffset": "GMT+06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Dhaka",
+      "gmtOffset": "GMT+06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Omsk",
+      "gmtOffset": "GMT+06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Qostanay",
+      "gmtOffset": "GMT+06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Thimphu",
+      "gmtOffset": "GMT+06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Urumqi",
+      "gmtOffset": "GMT+06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-6",
+      "gmtOffset": "GMT+06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Indian/Chagos",
+      "gmtOffset": "GMT+06:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Yangon",
+      "gmtOffset": "GMT+06:30",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Indian/Cocos",
+      "gmtOffset": "GMT+06:30",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Antarctica/Davis",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Bangkok",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Barnaul",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Ho_Chi_Minh",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Hovd",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Jakarta",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Krasnoyarsk",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Novokuznetsk",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Novosibirsk",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Phnom_Penh",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Pontianak",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Tomsk",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Vientiane",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-7",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Indian/Christmas",
+      "gmtOffset": "GMT+07:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Brunei",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Choibalsan",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Hong_Kong",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Irkutsk",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Kuala_Lumpur",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Kuching",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Macau",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Makassar",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Manila",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Shanghai",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Singapore",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Taipei",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Ulaanbaatar",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Australia/Perth",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-8",
+      "gmtOffset": "GMT+08:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Australia/Eucla",
+      "gmtOffset": "GMT+08:45",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Chita",
+      "gmtOffset": "GMT+09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Dili",
+      "gmtOffset": "GMT+09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Jayapura",
+      "gmtOffset": "GMT+09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Khandyga",
+      "gmtOffset": "GMT+09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Pyongyang",
+      "gmtOffset": "GMT+09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Seoul",
+      "gmtOffset": "GMT+09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Tokyo",
+      "gmtOffset": "GMT+09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Yakutsk",
+      "gmtOffset": "GMT+09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-9",
+      "gmtOffset": "GMT+09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Palau",
+      "gmtOffset": "GMT+09:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Australia/Darwin",
+      "gmtOffset": "GMT+09:30",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Antarctica/DumontDUrville",
+      "gmtOffset": "GMT+10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Ust-Nera",
+      "gmtOffset": "GMT+10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Vladivostok",
+      "gmtOffset": "GMT+10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Australia/Brisbane",
+      "gmtOffset": "GMT+10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Australia/Lindeman",
+      "gmtOffset": "GMT+10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-10",
+      "gmtOffset": "GMT+10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Chuuk",
+      "gmtOffset": "GMT+10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Guam",
+      "gmtOffset": "GMT+10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Port_Moresby",
+      "gmtOffset": "GMT+10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Saipan",
+      "gmtOffset": "GMT+10:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Australia/Adelaide",
+      "gmtOffset": "GMT+10:30",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Australia/Broken_Hill",
+      "gmtOffset": "GMT+10:30",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Antarctica/Casey",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Antarctica/Macquarie",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Magadan",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Sakhalin",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Srednekolymsk",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Australia/Currie",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Australia/Hobart",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Australia/Lord_Howe",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Australia/Melbourne",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Australia/Sydney",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-11",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Bougainville",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Efate",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Guadalcanal",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Kosrae",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Noumea",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Pohnpei",
+      "gmtOffset": "GMT+11:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Anadyr",
+      "gmtOffset": "GMT+12:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Asia/Kamchatka",
+      "gmtOffset": "GMT+12:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-12",
+      "gmtOffset": "GMT+12:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Fiji",
+      "gmtOffset": "GMT+12:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Funafuti",
+      "gmtOffset": "GMT+12:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Kwajalein",
+      "gmtOffset": "GMT+12:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Majuro",
+      "gmtOffset": "GMT+12:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Nauru",
+      "gmtOffset": "GMT+12:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Norfolk",
+      "gmtOffset": "GMT+12:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Tarawa",
+      "gmtOffset": "GMT+12:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Wake",
+      "gmtOffset": "GMT+12:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Wallis",
+      "gmtOffset": "GMT+12:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Antarctica/McMurdo",
+      "gmtOffset": "GMT+13:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-13",
+      "gmtOffset": "GMT+13:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Auckland",
+      "gmtOffset": "GMT+13:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Enderbury",
+      "gmtOffset": "GMT+13:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Fakaofo",
+      "gmtOffset": "GMT+13:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Tongatapu",
+      "gmtOffset": "GMT+13:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Chatham",
+      "gmtOffset": "GMT+13:45",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Etc/GMT-14",
+      "gmtOffset": "GMT+14:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Apia",
+      "gmtOffset": "GMT+14:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "timezone": "Pacific/Kiritimati",
+      "gmtOffset": "GMT+14:00",
+      "source": "raw-data/timezone.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "databaseVersion": "db-v1"
+    }
+  ]
+}

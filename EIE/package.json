@@ -1,0 +1,22 @@
+{
+  "name": "eie",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "npm exec --yes --package typescript@^5.8.3 -- tsc --noEmit",
+    "test": "npm run test:rules && npm run test:locale && npm run test:hardware && npm run test:cross-domain && npm run test:assembly && npm run test:e2e && npm run test:explain && npm run test:risk && npm run test:risk-explain",
+    "test:rules": "node --experimental-strip-types src/core/rules/RuleEngine.test.mjs",
+    "test:locale": "node --experimental-strip-types src/core/generator/LocaleGenerator.test.mjs",
+    "test:hardware": "node --experimental-strip-types src/core/validator/hardware/HardwareRuleValidator.test.mjs && node --experimental-strip-types src/core/generator/HardwareGenerator.test.mjs",
+    "test:cross-domain": "node --experimental-strip-types src/core/validator/cross-domain/CrossDomainValidator.test.mjs",
+    "test:assembly": "node --experimental-strip-types src/core/assembly/PersonaAssembler.test.mjs",
+    "test:e2e": "node --experimental-strip-types src/core/assembly/PersonaAssembly.e2e.test.mjs",
+    "test:explain": "node --experimental-strip-types src/core/explain/PersonaExplainer.test.mjs",
+    "test:risk": "node --experimental-strip-types src/core/risk/RiskEngine.test.mjs",
+    "test:risk-explain": "node --experimental-strip-types src/core/explain/RiskExplainer.test.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

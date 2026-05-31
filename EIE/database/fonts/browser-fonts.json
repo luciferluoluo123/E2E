@@ -1,0 +1,6817 @@
+{
+  "databaseVersion": "db-v1",
+  "ruleVersion": "phase-2.5-schema-freeze",
+  "collection": "browserFonts",
+  "generatedBy": "Importer",
+  "generatedAt": "2026-05-30T17:00:25.721Z",
+  "records": [
+    {
+      "fontName": "Roboto",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe UI",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Tahoma",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Arial",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Google Sans",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Helvetica",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "default",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "sans-serif",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "serif",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "cursive",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "monospace",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "fantasy",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Adobe Devanagari",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Agency FB",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Algerian",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Arial Black",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Arial Narrow",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bahnschrift",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bahnschrift Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bahnschrift SemiBold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Baskerville Old Face",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bell MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Berlin Sans FB",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bernard MT Condensed",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Blackadder ITC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bodoni MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bodoni MT Black",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bodoni MT Condensed",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Book Antiqua",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bookman Old Style",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bookshelf Symbol 7",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bradley Hand ITC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Broadway",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Brush Script MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Calibri",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Calibri Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Californian FB",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Calisto MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Cambria",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Cambria Math",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Candara",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Candara Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Castellar",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Centaur",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Century",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Century Schoolbook",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Century Gothic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Chiller",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Colonna MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Comic Sans MS",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Consolas",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Constantia",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Cooper Black",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Copperplate Gothic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Copperplate Gothic Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Corbel",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Corbel Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Courier",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Courier 10 Pitch",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Courier New",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Curlz MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "DejaVu Sans Mono",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "DengXian",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "DengXian Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Ebrima",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gadugi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Leelawadee UI",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe UI Emoji",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe UI Historic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Edwardian Script ITC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Elephant",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Engravers MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Felix Titling",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Footlight MT Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Forte",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Franklin Gothic Book",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Franklin Gothic Heavy",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Franklin Gothic Medium",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Freestyle Script",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "French Script MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gabriola",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Garamond",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Georgia",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gigi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gill Sans MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gill Sans MT Condensed",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Goudy Old Style",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Goudy Stout",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Haettenschweiler",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Harrington",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "High Tower Text",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "HoloLens MDL2 Assets",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Imprint MT Shadow",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Informal Roman",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Ink Free",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Javanese Text",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Jokerman",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Juice ITC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Kristen ITC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Kunstler Script",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lucida Bright",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lucida Calligraphy",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lucida Console",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lucida Fax",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lucida Handwriting",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lucida Sans",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lucida Sans Typewriter",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lucida Sans Unicode",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS Gothic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS Outlook",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS PGothic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS UI Gothic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS Reference Sans Serif",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS Reference Specialty",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS Sans Serif",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft Sans Serif",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS Serif",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Times",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Times New Roman",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MT Extra",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MV Boli",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Magneto",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Maiandra GD",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Malgun Gothic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Marlett",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Matura MT Script Capitals",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft Himalaya",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft JhengHei",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft JhengHei Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft JhengHei Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft JhengHei UI",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft JhengHei UI Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft JhengHei UI Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft New Tai Lue",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft PhagsPa",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft Tai Le",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft YaHei Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft YaHei UI",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft YaHei UI Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft Yi Baiti",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "SimSun-ExtB",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MingLiU-ExtB",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MingLiU_HKSCS-ExtB",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Mistral",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Mongolian Baiti",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Monotype Corsiva",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Myanmar Text",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Niagara Engraved",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Niagara Solid",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Nirmala UI",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Serif",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Old English Text MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Onyx",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "PMingLiU-ExtB",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Palace Script MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Palatino Linotype",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Papyrus",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Papyrus Condensed",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Parchment",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Perpetua",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Perpetua Titling MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Playbill",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Poor Richard",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Pristina",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Proxy 1",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Proxy 2",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Proxy 3",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Proxy 4",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Proxy 5",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Proxy 6",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Proxy 7",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Proxy 8",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Proxy 9",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Ravie",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Rockwell",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Rockwell Condensed",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STFangSong",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STKaiti",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STSong",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STXihei",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe MDL2 Assets",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe Print",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe Script",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe UI Black",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe UI Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe UI Semibold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe UI Symbol",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Showcard Gothic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Shree Devanagari 714",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Shree Devanagari 714 Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Shree Devanagari 714 Bold Italic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Shree Devanagari 714 Italic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sitka Banner",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sitka Display",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sitka Heading",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sitka Small",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sitka Subheading",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sitka Text",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Snap ITC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Stencil",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sylfaen",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Symbol",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Tempus Sans ITC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Trebuchet MS",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Tw Cen MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Tw Cen MT Condensed",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Verdana",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Viner Hand ITC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Vivaldi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Vladimir Script",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Webdings",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Wide Latin",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Wingdings",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Wingdings 2",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Wingdings 3",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Yu Gothic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Yu Gothic Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Yu Gothic Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Yu Gothic Medium",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Yu Gothic UI",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Yu Gothic UI Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Yu Gothic UI Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Yu Gothic UI Semibold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "ZWAdobeF",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "TTCommons",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "-apple-system",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "BlinkMacSystemFont",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Helvetica Neue",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Apple Color Emoji",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Color Emoji",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "no-real-font-590",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "no-real-font-123",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "sans-serif-thin",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "ARNO PRO",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Arabic Typesetting",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Arial Unicode MS",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "AvantGarde Bk BT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "BankGothic Md BT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Batang",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bitstream Vera Sans Mono",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Clarendon",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "EUROSTILE",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Franklin Gothic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Futura Bk BT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Futura Md BT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "GOTHAM",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gill Sans",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "HELV",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Humanst521 BT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Leelawadee",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Letter Gothic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Levenim MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Menlo",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS Mincho",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MYRIAD PRO",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Meiryo UI",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft Uighur",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Minion Pro",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "PMingLiU",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "SCRIPTINA",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Serifa",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "SimHei",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Small Fonts",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Staccato222 BT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "TRAJAN PRO",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Vrinda",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Impact",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft YaHei",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "SimSun",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Aqua Kana",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Aqua Kana Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Helvetica LT MM",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Keyboard",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Times LT MM",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Al Bayan",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Al Nile",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Al Tarikh",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "American Typewriter",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Andale Mono",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Apple Braille",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Apple Chancery",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Apple SD Gothic Neo",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Apple Symbols",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "AppleGothic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "AppleMyungjo",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "AquaKana",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Arial Hebrew",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Arial Hebrew Scholar",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Arial Rounded MT Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Athelas",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Black",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Black Oblique",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Book",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Heavy",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Medium",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Next",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Next Condensed",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Next Condensed Demi Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Next Condensed Heavy",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Next Condensed Medium",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Next Condensed Ultra Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Next Demi Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Next Heavy",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Next Medium",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Avenir Next Ultra Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Ayuthaya",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Baghdad",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bangla MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bangla Sangam MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Baskerville",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bauhaus 93",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Beirut",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Big Caslon",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bodoni 72",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bodoni 72 Oldstyle",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bodoni 72 Smallcaps",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bodoni Ornaments",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Bradley Hand",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Britannic Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Chalkboard",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Chalkboard SE",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Chalkduster",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Charter",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Charter Black",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Cochin",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Copperplate",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Copperplate Gothic Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Corsiva Hebrew",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "DIN Alternate",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "DIN Condensed",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Damascus",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "DecoType Naskh",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Devanagari MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Devanagari Sangam MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Didot",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Diwan Kufi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Diwan Thuluth",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Euphemia UCAS",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "FangSong",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Farah",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Farisi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Futura",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "GB18030 Bitmap",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Galvji",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Geeza Pro",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Geneva",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gill Sans Ultra Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gloucester MT Extra Condensed",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gujarati MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gujarati Sangam MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gulim",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gurmukhi MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gurmukhi MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gurmukhi Sangam MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Heiti SC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Heiti TC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Herculanum",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Kaku Gothic Pro",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Kaku Gothic Pro W3",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Kaku Gothic Pro W6",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Kaku Gothic ProN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Kaku Gothic ProN W3",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Kaku Gothic ProN W6",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Kaku Gothic Std",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Kaku Gothic Std W8",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Kaku Gothic StdN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Kaku Gothic StdN W8",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Maru Gothic Pro",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Maru Gothic Pro W4",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Maru Gothic ProN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Maru Gothic ProN W4",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Mincho Pro",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Mincho Pro W3",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Mincho Pro W6",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Mincho ProN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Mincho ProN W3",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Mincho ProN W6",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Sans",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Sans GB",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Sans GB W3",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Sans GB W6",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Sans W0",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Sans W1",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Sans W2",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Sans W3",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Sans W4",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Sans W5",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Sans W6",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Sans W7",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Sans W8",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hiragino Sans W9",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hoefler Text",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Hoefler Text Ornaments",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "ITF Devanagari",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "ITF Devanagari Marathi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "InaiMathi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Iowan Old Style",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Iowan Old Style Black",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KaiTi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Kailasa",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Kannada MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Kannada Sangam MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Kefa",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Khmer MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Khmer Sangam MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Kohinoor Bangla",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Kohinoor Devanagari",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Kohinoor Gujarati",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Kohinoor Telugu",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Kokonor",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Krungthep",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KufiStandardGK",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lao MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lao Sangam MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "LastResort",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lucida Grande",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Luminari",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS PMincho",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Malayalam MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Malayalam Sangam MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Marion",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Marker Felt",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Meiryo",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MingLiU",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MingLiU_HKSCS",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Mishafi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Mishafi Gold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Modern No. 20",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Monaco",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Mshtakan",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Muna",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Myanmar MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Myanmar Sangam MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Nadeem",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "New Peninim MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "News Gothic MT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noteworthy",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Nastaliq Urdu",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Adlam",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Armenian",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Avestan",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Bamum",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Bassa Vah",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Batak",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Bhaiksuki",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Brahmi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Buginese",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Buhid",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Carian",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Caucasian Albanian",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Chakma",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Cham",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Coptic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Cuneiform",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Cypriot",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Duployan",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Egyptian Hieroglyphs",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Elbasan",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Glagolitic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Gothic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Hanunoo",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Hatran",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Imperial Aramaic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Inscriptional Pahlavi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Inscriptional Parthian",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Javanese",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Kaithi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Kannada",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Kayah Li",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Kharoshthi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Khojki",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Khudawadi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Lepcha",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Limbu",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Linear A",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Linear B",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Lisu",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Lycian",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Lydian",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Mahajani",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Mandaic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Manichaean",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Marchen",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Meetei Mayek",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Mende Kikakui",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Meroitic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Miao",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Modi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Mongolian",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Mro",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Multani",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Myanmar",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans NKo",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Nabataean",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans New Tai Lue",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Newa",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Ogham",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Ol Chiki",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Old Hungarian",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Old Italic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Old North Arabian",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Old Permic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Old Persian",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Old South Arabian",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Old Turkic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Oriya",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Osage",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Osmanya",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Pahawh Hmong",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Palmyrene",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Pau Cin Hau",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans PhagsPa",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Phoenician",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Psalter Pahlavi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Rejang",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Runic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Samaritan",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Saurashtra",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Sharada",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Shavian",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Sora Sompeng",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Sundanese",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Syloti Nagri",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Syriac",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Tagalog",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Tagbanwa",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Tai Le",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Tai Tham",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Tai Viet",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Takri",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Thaana",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Tifinagh",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Tirhuta",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Ugaritic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Vai",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Warang Citi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Yi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Serif Ahom",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Serif Balinese",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Serif Myanmar",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Optima",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Oriya MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Oriya Sangam MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "PT Mono",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "PT Sans",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "PT Sans Caption",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "PT Sans Narrow",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "PT Serif",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "PT Serif Caption",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Palatino",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Phosphate",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "PingFang HK",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "PingFang SC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "PingFang TC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Plantagenet Cherokee",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Raanana",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Rockwell Extra Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXGeneral",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXGeneral-Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXGeneral-BoldItalic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXGeneral-Italic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXGeneral-Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsD",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsD-Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsD-Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsSm",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsSm-Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsSm-Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsUp",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsUp-Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsUp-Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsUpD",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsUpD-Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsUpD-Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsUpSm",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsUpSm-Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXIntegralsUpSm-Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXNonUnicode",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXNonUnicode-Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXNonUnicode-BoldItalic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXNonUnicode-Italic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXNonUnicode-Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXSizeFiveSym",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXSizeFiveSym-Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXSizeFourSym",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXSizeFourSym-Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXSizeFourSym-Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXSizeOneSym",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXSizeOneSym-Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXSizeOneSym-Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXSizeThreeSym",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXSizeThreeSym-Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXSizeThreeSym-Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXSizeTwoSym",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXSizeTwoSym-Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXSizeTwoSym-Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXVariants",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXVariants-Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "STIXVariants-Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sana",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sathu",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Savoye LET",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Seravek",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Seravek ExtraLight",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Seravek Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Seravek Medium",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "SignPainter",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "SignPainter-HouseScript",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Silom",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sinhala MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sinhala Sangam MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Skia",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Snell Roundhand",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Songti SC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Songti TC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sukhumvit Set",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Superclarendon",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Tamil MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Tamil Sangam MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Telugu MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Telugu Sangam MN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Thonburi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Trattatello",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Waseem",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Zapf Dingbats",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Zapfino",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Academy Engraved LET",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Party LET",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Apple Braille Outline 6 Dot",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Apple Braille Outline 8 Dot",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Apple Braille Pinpoint 6 Dot",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Apple Braille Pinpoint 8 Dot",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Comic Sans MS Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Comic Sans",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Caurier Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Fixedsys Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gabriola Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "HoloLens MDL2 Assets Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Impact Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Javanese Text Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lucida Console Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lucida Sans Unicode Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft Himalaya Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft PhangsPa",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft Sans Serif Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Microsoft Yi Baiti Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MingLiU_HKSCS-ExtB Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MingLiu-ExtB Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Modern Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Mongolia Baiti Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS Gothic Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS PGothic Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS Sans Serif Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS Serif Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MS UI Gothic Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "MV Boli Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Nimarla UI",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Myanmar Tet",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "NSimSun Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "PMingLiU-ExtB Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Roman Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Script Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe MDL2 Assets Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe UI Emoji Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe UI Historic Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe UI Symbol Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "SimSun Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "SimSun-ExtB Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Small Fonts Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sylfaen Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Symbol Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "System Bold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Terminal",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Webdings Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Wingdings Regular",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Fixedsys",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Leelawadee UI Semilight",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Malgun Gothic Semilight",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Modern",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "NSimSun",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Nirmala UI Semilight",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Roman",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Script",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Segoe UI Semilight",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "System",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Yu Gothic UI Semilight",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Liberation Sans",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "system-ui",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Ubuntu",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "aakar",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Abyssinica SIL",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Ani",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "AnjaliOldLipi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "AR PL UKai CN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "AR PL UKai HK",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "AR PL UKai TW",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "AR PL UKai TW MBE",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "AR PL UMing CN",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "AR PL UMing HK",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "AR PL UMing TW",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "AR PL UMing TW MBE",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "C059",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Chandas",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Chilanka",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Liberation Mono",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "D050000L",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "DejaVu Sans",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "DejaVu Serif",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Dhurjati",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Droid Sans Fallback",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Dyuthi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "FreeMono",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "FreeSans",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "FreeSerif",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gargi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Garuda",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gayathri",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gayathri Thin",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gidugu",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gubbi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Navilu",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Gurajada",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Jamrul",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstArt",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstBook",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstDigital",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstFarsi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstLetter",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstNaskh",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstOffice",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstPen",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstPoster",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstScreen",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstTitle",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstDecorative",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstOne",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstQurn",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "KacstTitleL",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Kalapi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Kalimati",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Karumbi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Keraleeyam",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Khmer OS",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Khmer OS System",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Kinnari",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Laksaman",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Liberation Sans Narrow",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Likhan",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "LKLUG",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lohit Assamese",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lohit Bengali",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lohit Devanagari",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lohit Gujarati",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lohit Gurmukhi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lohit Kannada",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lohit Malayalam",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lohit Odia",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lohit Tamil",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lohit Tamil Classical",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Lohit Telugu",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Loma",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Mallanna",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Mandali",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Manjari",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Manjari Thin",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Meera",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "mry_KacstQurn",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Nakula",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sahadeva",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Nimbus Mono PS",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Nimbus Roman",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Nimbus Sans",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Nimbus Sans Narrow",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Norasi",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Mono",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans CJK HK",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans CJK JP",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans CJK KR",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans CJK SC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans CJK TC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Mono",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Mono CJK HK",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Mono CJK JP",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Mono CJK KR",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Mono CJK SC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Sans Mono CJK TC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Serif CJK JP",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Serif CJK KR",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Serif CJK SC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Noto Serif CJK TC",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "NTR",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "OpenSymbol",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "ori1Uni",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "utkal",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "P052",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Padauk",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Padauk Book",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "padmaa",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "padmaa-Bold.1.1",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "padmmaa",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Pagul",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Peddana",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Phetsarath OT",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Pothana2000",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Vemana2000",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Purisa",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Rachana",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "RaghuMalayalamSans",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Ramabhadra",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Ramaraja",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Rasa",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Yrsa",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Rasa Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Yrsa Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Rasa Medium",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Yrsa Medium",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Rasa SemiBold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Yrsa SemiBold",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Rekha",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Saab",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Samanata",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Samyak Devanagari",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Samyak Gujarati",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Samyak Malayalam",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Samyak Tamil",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sarai",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sawasdee",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Sree Krushnadevaraya",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Standard Symbols PS",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Suranna",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Suravaram",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Suruma",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Tibetan Machine Uni",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Timmana",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Tlwg Mono",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Tlwg Typewriter",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Tlwg Typist",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Tlwg Typo",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Ubuntu Condensed",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Ubuntu Light",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Ubuntu Mono",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Ubuntu Thin",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Umpush",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Uroob",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "URW Bookman",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "URW Gothic",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Waree",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "fontName": "Z003",
+      "platform": "browser",
+      "source": "raw-data/fonts.txt",
+      "confidence": 0.9,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    }
+  ]
+}

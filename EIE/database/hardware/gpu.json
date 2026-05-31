@@ -1,0 +1,49 @@
+{
+  "databaseVersion": "db-v1",
+  "ruleVersion": "phase-4.2-hardware-rule-seed",
+  "collection": "hardwareGpu",
+  "generatedBy": "ManualRuleSeed",
+  "generatedAt": "2026-05-30T00:00:00.000Z",
+  "records": [
+    {
+      "id": "gpu-integrated-001",
+      "name": "MVP Integrated GPU",
+      "tier": "integrated",
+      "weight": 4,
+      "source": "manual-hardware-rule-v1",
+      "confidence": "medium"
+    },
+    {
+      "id": "gpu-low-001",
+      "name": "MVP Low GPU",
+      "tier": "low",
+      "weight": 3,
+      "source": "manual-hardware-rule-v1",
+      "confidence": "medium"
+    },
+    {
+      "id": "gpu-mid-001",
+      "name": "MVP Mid GPU",
+      "tier": "mid",
+      "weight": 4,
+      "source": "manual-hardware-rule-v1",
+      "confidence": "medium"
+    },
+    {
+      "id": "gpu-high-001",
+      "name": "MVP High GPU",
+      "tier": "high",
+      "weight": 2,
+      "source": "manual-hardware-rule-v1",
+      "confidence": "medium"
+    },
+    {
+      "id": "gpu-extreme-001",
+      "name": "MVP Extreme GPU",
+      "tier": "extreme",
+      "weight": 1,
+      "source": "manual-hardware-rule-v1",
+      "confidence": "medium"
+    }
+  ]
+}

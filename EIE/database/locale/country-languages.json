@@ -1,0 +1,5122 @@
+{
+  "databaseVersion": "db-v1",
+  "ruleVersion": "phase-2.5-schema-freeze",
+  "collection": "countryLanguages",
+  "generatedBy": "Importer",
+  "generatedAt": "2026-05-30T17:07:14.223Z",
+  "records": [
+    {
+      "countryCode": "AD",
+      "languages": [
+        {
+          "code": "ca-ES",
+          "prefix": "ca",
+          "englishName": "Catalan",
+          "localName": "加泰罗尼亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AF",
+      "languages": [
+        {
+          "code": "prs-AF",
+          "prefix": "prs",
+          "englishName": "Dari",
+          "localName": "达里语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "ps-AF",
+          "prefix": "ps",
+          "englishName": "Pashto",
+          "localName": "普什图语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AL",
+      "languages": [
+        {
+          "code": "sq-AL",
+          "prefix": "sq",
+          "englishName": "Albanian",
+          "localName": "阿尔巴尼亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AM",
+      "languages": [
+        {
+          "code": "hy-AM",
+          "prefix": "hy",
+          "englishName": "Armenian",
+          "localName": "亚美尼亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AO",
+      "languages": [
+        {
+          "code": "pt-PT",
+          "prefix": "pt",
+          "englishName": "Portuguese",
+          "localName": "葡萄牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AQ",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AR",
+      "languages": [
+        {
+          "code": "es-AR",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AS",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AT",
+      "languages": [
+        {
+          "code": "de-AT",
+          "prefix": "de",
+          "englishName": "German",
+          "localName": "德语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AG",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AI",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AE",
+      "languages": [
+        {
+          "code": "ar-AE",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AX",
+      "languages": [
+        {
+          "code": "sv-SE",
+          "prefix": "sv",
+          "englishName": "Swedish",
+          "localName": "瑞典语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "fi-FI",
+          "prefix": "fi",
+          "englishName": "Finnish",
+          "localName": "芬兰语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AZ",
+      "languages": [
+        {
+          "code": "az-LATN-AZ",
+          "prefix": "az",
+          "englishName": "Azerbaijani",
+          "localName": "阿塞拜疆语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "az-CYRL-AZ",
+          "prefix": "az",
+          "englishName": "Azerbaijani",
+          "localName": "阿塞拜疆语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BA",
+      "languages": [
+        {
+          "code": "bs-BA",
+          "prefix": "bs",
+          "englishName": "Bosnian",
+          "localName": "波斯尼亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "hr-BA",
+          "prefix": "hr",
+          "englishName": "Croatian",
+          "localName": "克罗地亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "sr-BA",
+          "prefix": "sr",
+          "englishName": "Serbian",
+          "localName": "塞尔维亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AW",
+      "languages": [
+        {
+          "code": "nl-NL",
+          "prefix": "nl",
+          "englishName": "Dutch",
+          "localName": "荷兰语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BD",
+      "languages": [
+        {
+          "code": "bn-BD",
+          "prefix": "bn",
+          "englishName": "Bengali",
+          "localName": "孟加拉语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AU",
+      "languages": [
+        {
+          "code": "en-AU",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BF",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BG",
+      "languages": [
+        {
+          "code": "bg-BG",
+          "prefix": "bg",
+          "englishName": "Bulgarian",
+          "localName": "保加利亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BH",
+      "languages": [
+        {
+          "code": "ar-BH",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BJ",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BI",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BM",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BL",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BB",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BO",
+      "languages": [
+        {
+          "code": "quz-BO",
+          "prefix": "quz",
+          "englishName": "Quechua",
+          "localName": "克丘亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BE",
+      "languages": [
+        {
+          "code": "fr-BE",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BQ",
+      "languages": [
+        {
+          "code": "nl-NL",
+          "prefix": "nl",
+          "englishName": "Dutch",
+          "localName": "荷兰语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BR",
+      "languages": [
+        {
+          "code": "pt-BR",
+          "prefix": "pt",
+          "englishName": "Portuguese",
+          "localName": "葡萄牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BS",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BT",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BW",
+      "languages": [
+        {
+          "code": "tn-ZA",
+          "prefix": "tn",
+          "englishName": "Tswana",
+          "localName": "茨瓦纳语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BY",
+      "languages": [
+        {
+          "code": "be-BY",
+          "prefix": "be",
+          "englishName": "Belarus",
+          "localName": "白俄罗斯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BZ",
+      "languages": [
+        {
+          "code": "en-BZ",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CA",
+      "languages": [
+        {
+          "code": "fr-CA",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BN",
+      "languages": [
+        {
+          "code": "ms-BN",
+          "prefix": "ms",
+          "englishName": "Malay",
+          "localName": "马来语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CF",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CL",
+      "languages": [
+        {
+          "code": "arn-CL",
+          "prefix": "arn",
+          "englishName": "Mapdangan",
+          "localName": "马普丹冈语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CM",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CO",
+      "languages": [
+        {
+          "code": "es-CO",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CR",
+      "languages": [
+        {
+          "code": "es-CR",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CV",
+      "languages": [
+        {
+          "code": "pt-PT",
+          "prefix": "pt",
+          "englishName": "Portuguese",
+          "localName": "葡萄牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CU",
+      "languages": [
+        {
+          "code": "es-ES",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CX",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CY",
+      "languages": [
+        {
+          "code": "el-GR",
+          "prefix": "el",
+          "englishName": "Greek",
+          "localName": "希腊语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "tr-TR",
+          "prefix": "tr",
+          "englishName": "Turkish",
+          "localName": "土耳其语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CZ",
+      "languages": [
+        {
+          "code": "cs-CZ",
+          "prefix": "cs",
+          "englishName": "Czech",
+          "localName": "捷克语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "DE",
+      "languages": [
+        {
+          "code": "de-DE",
+          "prefix": "de",
+          "englishName": "German",
+          "localName": "德语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "DJ",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "ar-SA",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "DK",
+      "languages": [
+        {
+          "code": "da-DK",
+          "prefix": "da",
+          "englishName": "Danish",
+          "localName": "丹麦语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "DM",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "DO",
+      "languages": [
+        {
+          "code": "es-DO",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "DZ",
+      "languages": [
+        {
+          "code": "ar-DZ",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "EC",
+      "languages": [
+        {
+          "code": "quz-EC",
+          "prefix": "quz",
+          "englishName": "Quechua",
+          "localName": "克丘亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "EE",
+      "languages": [
+        {
+          "code": "et-EE",
+          "prefix": "et",
+          "englishName": "Estonian",
+          "localName": "爱沙尼亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "EH",
+      "languages": [
+        {
+          "code": "ar-SA",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ER",
+      "languages": [
+        {
+          "code": "ar-SA",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ES",
+      "languages": [
+        {
+          "code": "es-ES",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "EG",
+      "languages": [
+        {
+          "code": "ar-EG",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "FI",
+      "languages": [
+        {
+          "code": "se-FI",
+          "prefix": "se",
+          "englishName": "Northern Sami",
+          "localName": "北萨米语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "FJ",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "FK",
+      "languages": [
+        {
+          "code": "es-ES",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CH",
+      "languages": [
+        {
+          "code": "de-CH",
+          "prefix": "de",
+          "englishName": "German",
+          "localName": "德语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "FO",
+      "languages": [
+        {
+          "code": "fo-FO",
+          "prefix": "fo",
+          "englishName": "Faroese",
+          "localName": "法罗语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "FR",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "FM",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GA",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GD",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GE",
+      "languages": [
+        {
+          "code": "ka-GE",
+          "prefix": "ka",
+          "englishName": "Georgian",
+          "localName": "格鲁吉亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GF",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GH",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GI",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GL",
+      "languages": [
+        {
+          "code": "kl-GL",
+          "prefix": "kl",
+          "englishName": "Greenland",
+          "localName": "格陵兰语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GN",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GP",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GQ",
+      "languages": [
+        {
+          "code": "es-ES",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "pt-PT",
+          "prefix": "pt",
+          "englishName": "Portuguese",
+          "localName": "葡萄牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GR",
+      "languages": [
+        {
+          "code": "el-GR",
+          "prefix": "el",
+          "englishName": "Greek",
+          "localName": "希腊语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GS",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GT",
+      "languages": [
+        {
+          "code": "qut-GT",
+          "prefix": "qut",
+          "englishName": "Keeche",
+          "localName": "基切语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GU",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GW",
+      "languages": [
+        {
+          "code": "pt-PT",
+          "prefix": "pt",
+          "englishName": "Portuguese",
+          "localName": "葡萄牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GY",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "HK",
+      "languages": [
+        {
+          "code": "zh-HK",
+          "prefix": "zh",
+          "englishName": "Chinese",
+          "localName": "中文",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "HN",
+      "languages": [
+        {
+          "code": "es-HN",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "HR",
+      "languages": [
+        {
+          "code": "hr-HR",
+          "prefix": "hr",
+          "englishName": "Croatian",
+          "localName": "克罗地亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "HU",
+      "languages": [
+        {
+          "code": "hu-HU",
+          "prefix": "hu",
+          "englishName": "Hungarian",
+          "localName": "匈牙利语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IL",
+      "languages": [
+        {
+          "code": "he-IL",
+          "prefix": "he",
+          "englishName": "Hebrew",
+          "localName": "希伯来语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IE",
+      "languages": [
+        {
+          "code": "ga-IE",
+          "prefix": "ga",
+          "englishName": "Irish",
+          "localName": "爱尔兰语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ID",
+      "languages": [
+        {
+          "code": "id-ID",
+          "prefix": "id",
+          "englishName": "Indonesian",
+          "localName": "印度尼西亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "HT",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IM",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IO",
+      "languages": [
+        {
+          "code": "en-GB",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IN",
+      "languages": [
+        {
+          "code": "hi-IN",
+          "prefix": "hi",
+          "englishName": "Hindi",
+          "localName": "印地语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IS",
+      "languages": [
+        {
+          "code": "is-IS",
+          "prefix": "is",
+          "englishName": "Island",
+          "localName": "冰岛语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IR",
+      "languages": [
+        {
+          "code": "fa-IR",
+          "prefix": "fa",
+          "englishName": "Persian",
+          "localName": "波斯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IQ",
+      "languages": [
+        {
+          "code": "ar-IQ",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IT",
+      "languages": [
+        {
+          "code": "it-IT",
+          "prefix": "it",
+          "englishName": "Italian",
+          "localName": "意大利语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "JE",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "JM",
+      "languages": [
+        {
+          "code": "en-JM",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "JO",
+      "languages": [
+        {
+          "code": "ar-JO",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "JP",
+      "languages": [
+        {
+          "code": "ja-JP",
+          "prefix": "ja",
+          "englishName": "Japanese",
+          "localName": "日语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KH",
+      "languages": [
+        {
+          "code": "km-KH",
+          "prefix": "km",
+          "englishName": "Khmer",
+          "localName": "高棉语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KI",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KM",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "ar-SA",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KW",
+      "languages": [
+        {
+          "code": "ar-KW",
+          "prefix": "ar",
+          "englishName": "Arabic Language",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KY",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LI",
+      "languages": [
+        {
+          "code": "de-LI",
+          "prefix": "de",
+          "englishName": "German",
+          "localName": "德语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LK",
+      "languages": [
+        {
+          "code": "si-LK",
+          "prefix": "si",
+          "englishName": "Sinhala",
+          "localName": "僧伽罗语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LB",
+      "languages": [
+        {
+          "code": "ar-LB",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LT",
+      "languages": [
+        {
+          "code": "lt-LT",
+          "prefix": "lt",
+          "englishName": "Lithuanian",
+          "localName": "立陶宛语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LU",
+      "languages": [
+        {
+          "code": "de-LU",
+          "prefix": "de",
+          "englishName": "German",
+          "localName": "德语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LR",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LV",
+      "languages": [
+        {
+          "code": "lv-LV",
+          "prefix": "lv",
+          "englishName": "Latvian",
+          "localName": "拉脱维亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LY",
+      "languages": [
+        {
+          "code": "ar-LY",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MA",
+      "languages": [
+        {
+          "code": "ar-MA",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MC",
+      "languages": [
+        {
+          "code": "fr-MC",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MD",
+      "languages": [
+        {
+          "code": "ro-RO",
+          "prefix": "ro",
+          "englishName": "Romanian",
+          "localName": "罗马尼亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ME",
+      "languages": [
+        {
+          "code": "sr-LATN-ME",
+          "prefix": "sr",
+          "englishName": "Serbian",
+          "localName": "塞尔维亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MF",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MG",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MH",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LS",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MK",
+      "languages": [
+        {
+          "code": "mk-MK",
+          "prefix": "mk",
+          "englishName": "Macedonian",
+          "localName": "马其顿语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MQ",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MR",
+      "languages": [
+        {
+          "code": "ar-SA",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MS",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MT",
+      "languages": [
+        {
+          "code": "mt-MT",
+          "prefix": "mt",
+          "englishName": "Maltese",
+          "localName": "马耳他语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MV",
+      "languages": [
+        {
+          "code": "dv-MV",
+          "prefix": "dv",
+          "englishName": "Dhivehi",
+          "localName": "迪维希语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MW",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MX",
+      "languages": [
+        {
+          "code": "es-MX",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ML",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MY",
+      "languages": [
+        {
+          "code": "ms-MY",
+          "prefix": "ms",
+          "englishName": "Malay",
+          "localName": "马来语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NA",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NE",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NF",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NG",
+      "languages": [
+        {
+          "code": "ha-LATN-NG",
+          "prefix": "ha",
+          "englishName": "Hausa",
+          "localName": "豪撒语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NI",
+      "languages": [
+        {
+          "code": "es-NI",
+          "prefix": "es",
+          "englishName": "Spain",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NL",
+      "languages": [
+        {
+          "code": "fy-NL",
+          "prefix": "fy",
+          "englishName": "Frisian",
+          "localName": "弗里西亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NO",
+      "languages": [
+        {
+          "code": "se-NO",
+          "prefix": "se",
+          "englishName": "Northern Sami",
+          "localName": "北萨米语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NP",
+      "languages": [
+        {
+          "code": "ne-NP",
+          "prefix": "ne",
+          "englishName": "Nepal",
+          "localName": "尼泊尔语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NR",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "OM",
+      "languages": [
+        {
+          "code": "ar-OM",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PA",
+      "languages": [
+        {
+          "code": "es-PA",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PE",
+      "languages": [
+        {
+          "code": "quz-PE",
+          "prefix": "quz",
+          "englishName": "Quechua",
+          "localName": "克丘亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PF",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MO",
+      "languages": [
+        {
+          "code": "zh-MO",
+          "prefix": "zh",
+          "englishName": "Chinese",
+          "localName": "中文",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PH",
+      "languages": [
+        {
+          "code": "fil-PH",
+          "prefix": "fil",
+          "englishName": "Philippine",
+          "localName": "菲律宾语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PG",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PL",
+      "languages": [
+        {
+          "code": "pl-PL",
+          "prefix": "pl",
+          "englishName": "Polish",
+          "localName": "波兰语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PK",
+      "languages": [
+        {
+          "code": "ur-PK",
+          "prefix": "ur",
+          "englishName": "Urdu",
+          "localName": "乌尔都语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PS",
+      "languages": [
+        {
+          "code": "ar-SA",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PR",
+      "languages": [
+        {
+          "code": "es-PR",
+          "prefix": "es",
+          "englishName": "Spain Language",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PN",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PW",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "QA",
+      "languages": [
+        {
+          "code": "ar-QA",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "RO",
+      "languages": [
+        {
+          "code": "ro-RO",
+          "prefix": "ro",
+          "englishName": "Romanian",
+          "localName": "罗马尼亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "RE",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "RS",
+      "languages": [
+        {
+          "code": "sr-LATN-RS",
+          "prefix": "sr",
+          "englishName": "Serbian",
+          "localName": "塞尔维亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PY",
+      "languages": [
+        {
+          "code": "es-PY",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "RU",
+      "languages": [
+        {
+          "code": "ru-RU",
+          "prefix": "ru",
+          "englishName": "Russian",
+          "localName": "俄语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SB",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SE",
+      "languages": [
+        {
+          "code": "se-SE",
+          "prefix": "se",
+          "englishName": "Northern Sami",
+          "localName": "北萨米语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SC",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SG",
+      "languages": [
+        {
+          "code": "en-SG",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SD",
+      "languages": [
+        {
+          "code": "ar-SA",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SI",
+      "languages": [
+        {
+          "code": "sl-SI",
+          "prefix": "sl",
+          "englishName": "Slovenian",
+          "localName": "斯洛文尼亚语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SJ",
+      "languages": [
+        {
+          "code": "nn-NO",
+          "prefix": "no",
+          "englishName": "Norwegian",
+          "localName": "挪威语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SK",
+      "languages": [
+        {
+          "code": "sk-SK",
+          "prefix": "sk",
+          "englishName": "Slovak",
+          "localName": "斯洛伐克语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SL",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SM",
+      "languages": [
+        {
+          "code": "it-IT",
+          "prefix": "it",
+          "englishName": "Italian",
+          "localName": "意大利语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SN",
+      "languages": [
+        {
+          "code": "wo-SN",
+          "prefix": "wo",
+          "englishName": "Wolof",
+          "localName": "沃洛夫语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SO",
+      "languages": [
+        {
+          "code": "ar-SA",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SR",
+      "languages": [
+        {
+          "code": "nl-NL",
+          "prefix": "nl",
+          "englishName": "Dutch",
+          "localName": "荷兰语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SS",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ST",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SV",
+      "languages": [
+        {
+          "code": "es-SV",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SY",
+      "languages": [
+        {
+          "code": "ar-SY",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SZ",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TC",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TG",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TD",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "ar-SA",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TH",
+      "languages": [
+        {
+          "code": "th-TH",
+          "prefix": "ta",
+          "englishName": "Thai",
+          "localName": "泰语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TK",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TL",
+      "languages": [
+        {
+          "code": "pt-PT",
+          "prefix": "pt",
+          "englishName": "Portuguese",
+          "localName": "葡萄牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TN",
+      "languages": [
+        {
+          "code": "ar-TN",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TR",
+      "languages": [
+        {
+          "code": "tr-TR",
+          "prefix": "tr",
+          "englishName": "Turkish",
+          "localName": "土耳其语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TO",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TZ",
+      "languages": [
+        {
+          "code": "sw-KE",
+          "prefix": "sw",
+          "englishName": "Swah Greek",
+          "localName": "斯瓦希里语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "UA",
+      "languages": [
+        {
+          "code": "uk-UA",
+          "prefix": "uk",
+          "englishName": "Ukrainian",
+          "localName": "乌克兰语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "UY",
+      "languages": [
+        {
+          "code": "es-UY",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "UG",
+      "languages": [
+        {
+          "code": "sw-KE",
+          "prefix": "sw",
+          "englishName": "Swah Greek",
+          "localName": "斯瓦希里语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "US",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "VA",
+      "languages": [
+        {
+          "code": "it-IT",
+          "prefix": "it",
+          "englishName": "Italian",
+          "localName": "意大利语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "VI",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "VE",
+      "languages": [
+        {
+          "code": "es-VE",
+          "prefix": "es",
+          "englishName": "Spanish",
+          "localName": "西班牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "WS",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "VN",
+      "languages": [
+        {
+          "code": "vi-VN",
+          "prefix": "vi",
+          "englishName": "Vietnamese",
+          "localName": "越南语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "VG",
+      "languages": [
+        {
+          "code": "en-GB",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "YT",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "YE",
+      "languages": [
+        {
+          "code": "ar-YE",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "WF",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ZW",
+      "languages": [
+        {
+          "code": "en-ZW",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ZA",
+      "languages": [
+        {
+          "code": "nso-ZA",
+          "prefix": "nso",
+          "englishName": "Basotho",
+          "localName": "巴索托语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ZM",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CN",
+      "languages": [
+        {
+          "code": "zh-CN",
+          "prefix": "zh",
+          "englishName": "Chinese",
+          "localName": "中文",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CD",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MZ",
+      "languages": [
+        {
+          "code": "pt-PT",
+          "prefix": "pt",
+          "englishName": "Portuguese",
+          "localName": "葡萄牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CG",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GG",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GM",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MP",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ET",
+      "languages": [
+        {
+          "code": "am-ET",
+          "prefix": "am",
+          "englishName": "Amharic",
+          "localName": "阿姆哈拉语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TF",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "VU",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NC",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "UM",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NU",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TT",
+      "languages": [
+        {
+          "code": "en-TT",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "VC",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CK",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "UK",
+      "languages": [
+        {
+          "code": "en-GB",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TV",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TW",
+      "languages": [
+        {
+          "code": "zh-TW",
+          "prefix": "zh",
+          "englishName": "Chinese (Traditional)",
+          "localName": "中文(繁体)",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NZ",
+      "languages": [
+        {
+          "code": "en-NZ",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "mi-NZ",
+          "prefix": "mi",
+          "englishName": "Maori",
+          "localName": "毛利语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SA",
+      "languages": [
+        {
+          "code": "ar-SA",
+          "prefix": "ar",
+          "englishName": "Arabic",
+          "localName": "阿拉伯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KR",
+      "languages": [
+        {
+          "code": "ko-KR",
+          "prefix": "ko",
+          "englishName": "North Korea",
+          "localName": "朝鲜语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KP",
+      "languages": [
+        {
+          "code": "ko-KR",
+          "prefix": "ko",
+          "englishName": "North Korea",
+          "localName": "朝鲜语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LA",
+      "languages": [
+        {
+          "code": "lo-LA",
+          "prefix": "lo",
+          "englishName": "Lao",
+          "localName": "老挝语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KG",
+      "languages": [
+        {
+          "code": "ky-KG",
+          "prefix": "ky",
+          "englishName": "Kyrgyz",
+          "localName": "吉尔吉斯语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PT",
+      "languages": [
+        {
+          "code": "pt-PT",
+          "prefix": "pt",
+          "englishName": "Portuguese",
+          "localName": "葡萄牙语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KZ",
+      "languages": [
+        {
+          "code": "kk-KZ",
+          "prefix": "kk",
+          "englishName": "Kazakh",
+          "localName": "哈萨克语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TJ",
+      "languages": [
+        {
+          "code": "tg-CYRL-TJ",
+          "prefix": "tg",
+          "englishName": "Tajik Language",
+          "localName": "塔吉克语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TM",
+      "languages": [
+        {
+          "code": "tk-TM",
+          "prefix": "tk",
+          "englishName": "Turkmen",
+          "localName": "土库曼语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "UZ",
+      "languages": [
+        {
+          "code": "uz-LATN-UZ",
+          "prefix": "uz",
+          "englishName": "Uzbek",
+          "localName": "乌兹别克语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SH",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PM",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KN",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LC",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        },
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CI",
+      "languages": [
+        {
+          "code": "fr-FR",
+          "prefix": "fr",
+          "englishName": "French",
+          "localName": "法语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MU",
+      "languages": [
+        {
+          "code": "en-US",
+          "prefix": "en",
+          "englishName": "English",
+          "localName": "英语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KE",
+      "languages": [
+        {
+          "code": "sw-KE",
+          "prefix": "sw",
+          "englishName": "Swah Greek",
+          "localName": "斯瓦希里语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MN",
+      "languages": [
+        {
+          "code": "mn-MONG",
+          "prefix": "mn",
+          "englishName": "Mongolian",
+          "localName": "蒙古语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "RW",
+      "languages": [
+        {
+          "code": "rw-RW",
+          "prefix": "rw",
+          "englishName": "Rwanda",
+          "localName": "卢旺达语",
+          "weight": 1,
+          "source": "raw-data/language.txt",
+          "confidence": 0.85,
+          "ruleVersion": "phase-2.5-schema-freeze",
+          "databaseVersion": "db-v1"
+        }
+      ],
+      "source": "raw-data/language.txt",
+      "confidence": 0.85,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    }
+  ]
+}
