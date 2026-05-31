@@ -1,0 +1,1117 @@
+{
+  "importedAt": "2026-05-30T17:29:59.291Z",
+  "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+  "databaseVersion": "db-v1",
+  "sourceFiles": [
+    {
+      "path": "raw-data/country-code.txt",
+      "records": 247,
+      "validRecords": 247,
+      "invalidRecords": 0
+    },
+    {
+      "path": "raw-data/language.txt",
+      "records": 270,
+      "validRecords": 266,
+      "invalidRecords": 4
+    },
+    {
+      "path": "raw-data/ui-language.txt",
+      "records": 84,
+      "validRecords": 84,
+      "invalidRecords": 0
+    },
+    {
+      "path": "raw-data/fonts.txt",
+      "records": 1708,
+      "validRecords": 1702,
+      "invalidRecords": 6
+    },
+    {
+      "path": "raw-data/os/windows.txt",
+      "records": 112,
+      "validRecords": 56,
+      "invalidRecords": 56
+    },
+    {
+      "path": "raw-data/timezone.txt",
+      "records": 478,
+      "validRecords": 478,
+      "invalidRecords": 0
+    },
+    {
+      "path": "manual-rule-v1#country-timezone",
+      "records": 29,
+      "validRecords": 29,
+      "invalidRecords": 0
+    }
+  ],
+  "totalRecords": 2928,
+  "validRecords": 2862,
+  "invalidRecords": 66,
+  "warnings": [
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/language.txt",
+      "line": 39,
+      "message": "Language line has empty language code or prefix.",
+      "raw": "cc:'bv'  code:''  prefix:''    nation:'布韦岛'  lang:''"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/language.txt",
+      "line": 44,
+      "message": "Language line has empty language code or prefix.",
+      "raw": "cc:'cc'  code:''  prefix:''    nation:'科科斯群岛'  lang:''"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/language.txt",
+      "line": 99,
+      "message": "Language line has empty language code or prefix.",
+      "raw": "cc:'hm'  code:''  prefix:''    nation:'赫德岛和麦克唐纳群岛'  lang:''"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/language.txt",
+      "line": 163,
+      "message": "Language line has empty language code or prefix.",
+      "raw": "cc:'mm'  code:''  prefix:''    nation:'缅甸'  lang:''"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/fonts.txt",
+      "message": "Expected split windows font source was not found; used raw-data/fonts.txt fallback."
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/fonts.txt",
+      "line": 7,
+      "message": "Duplicate font name removed from standardized output.",
+      "raw": "arial"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/fonts.txt",
+      "line": 179,
+      "message": "Duplicate font name removed from standardized output.",
+      "raw": "STFangsong"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/fonts.txt",
+      "line": 344,
+      "message": "Duplicate font name removed from standardized output.",
+      "raw": "Eurostile"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/fonts.txt",
+      "message": "Expected split browser font source was not found; used raw-data/fonts.txt fallback."
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/fonts.txt",
+      "line": 7,
+      "message": "Duplicate font name removed from standardized output.",
+      "raw": "arial"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/fonts.txt",
+      "line": 179,
+      "message": "Duplicate font name removed from standardized output.",
+      "raw": "STFangsong"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/fonts.txt",
+      "line": 344,
+      "message": "Duplicate font name removed from standardized output.",
+      "raw": "Eurostile"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 1,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Arial"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 2,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Calibri"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 3,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Cambria Math"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 4,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Cambria"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 5,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Candara"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 6,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Comic Sans MS"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 7,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Consolas"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 8,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Constantia"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 9,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Corbel"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 10,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Courier New"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 11,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Ebrima"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 12,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Franklin Gothic"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 13,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Gabriola"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 14,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Georgia"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 15,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Impact"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 16,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Times New Roman"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 17,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Lucida Console"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 18,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Lucida Sans Unicode"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 19,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "MS Gothic"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 20,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "MS PGothic"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 21,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "MV Boli"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 22,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Malgun Gothic"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 23,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Marlett"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 24,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Microsoft Himalaya"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 25,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Microsoft JhengHei"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 26,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Microsoft New Tai Lue"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 27,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Microsoft PhagsPa"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 28,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Microsoft Sans Serif"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 29,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Microsoft YaHei"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 30,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Microsoft Yi Baiti"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 31,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "MingLiU-ExtB"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 32,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Mongolian Baiti"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 33,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "PMingLiU-ExtB"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 34,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Palatino Linotype"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 35,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Segoe Print"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 36,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Segoe Script"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 37,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Segoe UI Symbol"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 38,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Segoe UI"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 39,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "SimSun"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 40,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "SimSun-ExtB"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 41,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Sylfaen"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 42,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Trebuchet MS"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 43,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Verdana"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 44,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Webdings"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 45,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Gadugi"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 46,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Javanese Text"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 47,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Microsoft JhengHei UI"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 48,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Myanmar Text"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 49,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Sitka Small"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 50,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Yu Gothic"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 51,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "MS UI Gothic"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 52,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Microsoft Tai Le"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 53,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "MingLiU_HKSCS-ExtB"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 54,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Symbol"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 55,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Segoe UI Emoji"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/os/windows.txt",
+      "line": 56,
+      "message": "Windows OS line could not be fully parsed; retained with low confidence.",
+      "raw": "Bahnschrift"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 6,
+      "message": "Normalized timezone from Pacific/Pago Pago to Pacific/Pago_Pago.",
+      "field": "timezone",
+      "before": "Pacific/Pago Pago",
+      "after": "Pacific/Pago_Pago",
+      "raw": "tz: 'GMT-11:00', gmt: 'Pacific/Pago Pago'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 21,
+      "message": "Normalized timezone from America/Los Angeles to America/Los_Angeles.",
+      "field": "timezone",
+      "before": "America/Los Angeles",
+      "after": "America/Los_Angeles",
+      "raw": "tz: 'GMT-08:00', gmt: 'America/Los Angeles'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 28,
+      "message": "Normalized timezone from America/Cambridge Bay to America/Cambridge_Bay.",
+      "field": "timezone",
+      "before": "America/Cambridge Bay",
+      "after": "America/Cambridge_Bay",
+      "raw": "tz: 'GMT-07:00', gmt: 'America/Cambridge Bay'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 32,
+      "message": "Normalized timezone from America/Dawson Creek to America/Dawson_Creek.",
+      "field": "timezone",
+      "before": "America/Dawson Creek",
+      "after": "America/Dawson_Creek",
+      "raw": "tz: 'GMT-07:00', gmt: 'America/Dawson Creek'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 35,
+      "message": "Normalized timezone from America/Fort Nelson to America/Fort_Nelson.",
+      "field": "timezone",
+      "before": "America/Fort Nelson",
+      "after": "America/Fort_Nelson",
+      "raw": "tz: 'GMT-07:00', gmt: 'America/Fort Nelson'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 46,
+      "message": "Normalized timezone from America/Bahia Banderas to America/Bahia_Banderas.",
+      "field": "timezone",
+      "before": "America/Bahia Banderas",
+      "after": "America/Bahia_Banderas",
+      "raw": "tz: 'GMT-06:00', gmt: 'America/Bahia Banderas'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 49,
+      "message": "Normalized timezone from America/Costa Rica to America/Costa_Rica.",
+      "field": "timezone",
+      "before": "America/Costa Rica",
+      "after": "America/Costa_Rica",
+      "raw": "tz: 'GMT-06:00', gmt: 'America/Costa Rica'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 50,
+      "message": "Normalized timezone from America/El Salvador to America/El_Salvador.",
+      "field": "timezone",
+      "before": "America/El Salvador",
+      "after": "America/El_Salvador",
+      "raw": "tz: 'GMT-06:00', gmt: 'America/El Salvador'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 53,
+      "message": "Normalized timezone from America/Indiana/Tell City to America/Indiana/Tell_City.",
+      "field": "timezone",
+      "before": "America/Indiana/Tell City",
+      "after": "America/Indiana/Tell_City",
+      "raw": "tz: 'GMT-06:00', gmt: 'America/Indiana/Tell City'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 58,
+      "message": "Normalized timezone from America/Mexico City to America/Mexico_City.",
+      "field": "timezone",
+      "before": "America/Mexico City",
+      "after": "America/Mexico_City",
+      "raw": "tz: 'GMT-06:00', gmt: 'America/Mexico City'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 60,
+      "message": "Normalized timezone from America/North Dakota/Beulah to America/North_Dakota/Beulah.",
+      "field": "timezone",
+      "before": "America/North Dakota/Beulah",
+      "after": "America/North_Dakota/Beulah",
+      "raw": "tz: 'GMT-06:00', gmt: 'America/North Dakota/Beulah'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 61,
+      "message": "Normalized timezone from America/North Dakota/Center to America/North_Dakota/Center.",
+      "field": "timezone",
+      "before": "America/North Dakota/Center",
+      "after": "America/North_Dakota/Center",
+      "raw": "tz: 'GMT-06:00', gmt: 'America/North Dakota/Center'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 62,
+      "message": "Normalized timezone from America/North Dakota/New_Salem to America/North_Dakota/New_Salem.",
+      "field": "timezone",
+      "before": "America/North Dakota/New_Salem",
+      "after": "America/North_Dakota/New_Salem",
+      "raw": "tz: 'GMT-06:00', gmt: 'America/North Dakota/New_Salem'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 63,
+      "message": "Normalized timezone from America/Rainy River to America/Rainy_River.",
+      "field": "timezone",
+      "before": "America/Rainy River",
+      "after": "America/Rainy_River",
+      "raw": "tz: 'GMT-06:00', gmt: 'America/Rainy River'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 64,
+      "message": "Normalized timezone from America/Rankin Inlet to America/Rankin_Inlet.",
+      "field": "timezone",
+      "before": "America/Rankin Inlet",
+      "after": "America/Rankin_Inlet",
+      "raw": "tz: 'GMT-06:00', gmt: 'America/Rankin Inlet'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 67,
+      "message": "Normalized timezone from America/Swift Current to America/Swift_Current.",
+      "field": "timezone",
+      "before": "America/Swift Current",
+      "after": "America/Swift_Current",
+      "raw": "tz: 'GMT-06:00', gmt: 'America/Swift Current'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 79,
+      "message": "Normalized timezone from America/Grand Turk to America/Grand_Turk.",
+      "field": "timezone",
+      "before": "America/Grand Turk",
+      "after": "America/Grand_Turk",
+      "raw": "tz: 'GMT-05:00', gmt: 'America/Grand Turk'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 96,
+      "message": "Normalized timezone from America/New York to America/New_York.",
+      "field": "timezone",
+      "before": "America/New York",
+      "after": "America/New_York",
+      "raw": "tz: 'GMT-05:00', gmt: 'America/New York'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 101,
+      "message": "Normalized timezone from America/Rio Branco to America/Rio_Branco.",
+      "field": "timezone",
+      "before": "America/Rio Branco",
+      "after": "America/Rio_Branco",
+      "raw": "tz: 'GMT-05:00', gmt: 'America/Rio Branco'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 102,
+      "message": "Normalized timezone from America/Thunder Bay to America/Thunder_Bay.",
+      "field": "timezone",
+      "before": "America/Thunder Bay",
+      "after": "America/Thunder_Bay",
+      "raw": "tz: 'GMT-05:00', gmt: 'America/Thunder Bay'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 113,
+      "message": "Normalized timezone from America/Boa Vista to America/Boa_Vista.",
+      "field": "timezone",
+      "before": "America/Boa Vista",
+      "after": "America/Boa_Vista",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/Boa Vista'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 114,
+      "message": "Normalized timezone from America/Campo Grande to America/Campo_Grande.",
+      "field": "timezone",
+      "before": "America/Campo Grande",
+      "after": "America/Campo_Grande",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/Campo Grande'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 119,
+      "message": "Normalized timezone from America/Glace Bay to America/Glace_Bay.",
+      "field": "timezone",
+      "before": "America/Glace Bay",
+      "after": "America/Glace_Bay",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/Glace Bay'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 120,
+      "message": "Normalized timezone from America/Goose Bay to America/Goose_Bay.",
+      "field": "timezone",
+      "before": "America/Goose Bay",
+      "after": "America/Goose_Bay",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/Goose Bay'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 126,
+      "message": "Normalized timezone from America/La Paz to America/La_Paz.",
+      "field": "timezone",
+      "before": "America/La Paz",
+      "after": "America/La_Paz",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/La Paz'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 127,
+      "message": "Normalized timezone from America/Lower Princes to America/Lower_Princes.",
+      "field": "timezone",
+      "before": "America/Lower Princes",
+      "after": "America/Lower_Princes",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/Lower Princes'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 133,
+      "message": "Normalized timezone from America/Port of_Spain to America/Port_of_Spain.",
+      "field": "timezone",
+      "before": "America/Port of_Spain",
+      "after": "America/Port_of_Spain",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/Port of_Spain'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 134,
+      "message": "Normalized timezone from America/Porto Velho to America/Porto_Velho.",
+      "field": "timezone",
+      "before": "America/Porto Velho",
+      "after": "America/Porto_Velho",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/Porto Velho'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 135,
+      "message": "Normalized timezone from America/Puerto Rico to America/Puerto_Rico.",
+      "field": "timezone",
+      "before": "America/Puerto Rico",
+      "after": "America/Puerto_Rico",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/Puerto Rico'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 136,
+      "message": "Normalized timezone from America/Santo Domingo to America/Santo_Domingo.",
+      "field": "timezone",
+      "before": "America/Santo Domingo",
+      "after": "America/Santo_Domingo",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/Santo Domingo'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 137,
+      "message": "Normalized timezone from America/St Barthelemy to America/St_Barthelemy.",
+      "field": "timezone",
+      "before": "America/St Barthelemy",
+      "after": "America/St_Barthelemy",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/St Barthelemy'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 138,
+      "message": "Normalized timezone from America/St Kitts to America/St_Kitts.",
+      "field": "timezone",
+      "before": "America/St Kitts",
+      "after": "America/St_Kitts",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/St Kitts'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 139,
+      "message": "Normalized timezone from America/St Lucia to America/St_Lucia.",
+      "field": "timezone",
+      "before": "America/St Lucia",
+      "after": "America/St_Lucia",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/St Lucia'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 140,
+      "message": "Normalized timezone from America/St Thomas to America/St_Thomas.",
+      "field": "timezone",
+      "before": "America/St Thomas",
+      "after": "America/St_Thomas",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/St Thomas'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 141,
+      "message": "Normalized timezone from America/St Vincent to America/St_Vincent.",
+      "field": "timezone",
+      "before": "America/St Vincent",
+      "after": "America/St_Vincent",
+      "raw": "tz: 'GMT-04:00', gmt: 'America/St Vincent'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 146,
+      "message": "Normalized timezone from America/St Johns to America/St_Johns.",
+      "field": "timezone",
+      "before": "America/St Johns",
+      "after": "America/St_Johns",
+      "raw": "tz: 'GMT-03:30', gmt: 'America/St Johns'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 148,
+      "message": "Normalized timezone from America/Argentina/Buenos Aires to America/Argentina/Buenos_Aires.",
+      "field": "timezone",
+      "before": "America/Argentina/Buenos Aires",
+      "after": "America/Argentina/Buenos_Aires",
+      "raw": "tz: 'GMT-03:00', gmt: 'America/Argentina/Buenos Aires'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 152,
+      "message": "Normalized timezone from America/Argentina/La Rioja to America/Argentina/La_Rioja.",
+      "field": "timezone",
+      "before": "America/Argentina/La Rioja",
+      "after": "America/Argentina/La_Rioja",
+      "raw": "tz: 'GMT-03:00', gmt: 'America/Argentina/La Rioja'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 154,
+      "message": "Normalized timezone from America/Argentina/Rio Gallegos to America/Argentina/Rio_Gallegos.",
+      "field": "timezone",
+      "before": "America/Argentina/Rio Gallegos",
+      "after": "America/Argentina/Rio_Gallegos",
+      "raw": "tz: 'GMT-03:00', gmt: 'America/Argentina/Rio Gallegos'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 156,
+      "message": "Normalized timezone from America/Argentina/San Juan to America/Argentina/San_Juan.",
+      "field": "timezone",
+      "before": "America/Argentina/San Juan",
+      "after": "America/Argentina/San_Juan",
+      "raw": "tz: 'GMT-03:00', gmt: 'America/Argentina/San Juan'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 157,
+      "message": "Normalized timezone from America/Argentina/San Luis to America/Argentina/San_Luis.",
+      "field": "timezone",
+      "before": "America/Argentina/San Luis",
+      "after": "America/Argentina/San_Luis",
+      "raw": "tz: 'GMT-03:00', gmt: 'America/Argentina/San Luis'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 171,
+      "message": "Normalized timezone from America/Punta Arenas to America/Punta_Arenas.",
+      "field": "timezone",
+      "before": "America/Punta Arenas",
+      "after": "America/Punta_Arenas",
+      "raw": "tz: 'GMT-03:00', gmt: 'America/Punta Arenas'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 175,
+      "message": "Normalized timezone from America/Sao Paulo to America/Sao_Paulo.",
+      "field": "timezone",
+      "before": "America/Sao Paulo",
+      "after": "America/Sao_Paulo",
+      "raw": "tz: 'GMT-03:00', gmt: 'America/Sao Paulo'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 181,
+      "message": "Normalized timezone from Atlantic/South Georgia to Atlantic/South_Georgia.",
+      "field": "timezone",
+      "before": "Atlantic/South Georgia",
+      "after": "Atlantic/South_Georgia",
+      "raw": "tz: 'GMT-02:00', gmt: 'Atlantic/South Georgia'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 185,
+      "message": "Normalized timezone from Atlantic/Cape Verde to Atlantic/Cape_Verde.",
+      "field": "timezone",
+      "before": "Atlantic/Cape Verde",
+      "after": "Atlantic/Cape_Verde",
+      "raw": "tz: 'GMT-01:00', gmt: 'Atlantic/Cape Verde'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 199,
+      "message": "Normalized timezone from Africa/Sao Tome to Africa/Sao_Tome.",
+      "field": "timezone",
+      "before": "Africa/Sao Tome",
+      "after": "Africa/Sao_Tome",
+      "raw": "tz: 'GMT+00:00', gmt: 'Africa/Sao Tome'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 206,
+      "message": "Normalized timezone from Atlantic/St Helena to Atlantic/St_Helena.",
+      "field": "timezone",
+      "before": "Atlantic/St Helena",
+      "after": "Atlantic/St_Helena",
+      "raw": "tz: 'GMT+00:00', gmt: 'Atlantic/St Helena'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 216,
+      "message": "Normalized timezone from Europe/Isle of_Man to Europe/Isle_of_Man.",
+      "field": "timezone",
+      "before": "Europe/Isle of_Man",
+      "after": "Europe/Isle_of_Man",
+      "raw": "tz: 'GMT+00:00', gmt: 'Europe/Isle of_Man'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 229,
+      "message": "Normalized timezone from Africa/El Aaiun to Africa/El_Aaiun.",
+      "field": "timezone",
+      "before": "Africa/El Aaiun",
+      "after": "Africa/El_Aaiun",
+      "raw": "tz: 'GMT+01:00', gmt: 'Africa/El Aaiun'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 262,
+      "message": "Normalized timezone from Europe/San Marino to Europe/San_Marino.",
+      "field": "timezone",
+      "before": "Europe/San Marino",
+      "after": "Europe/San_Marino",
+      "raw": "tz: 'GMT+01:00', gmt: 'Europe/San Marino'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 313,
+      "message": "Normalized timezone from Africa/Addis Ababa to Africa/Addis_Ababa.",
+      "field": "timezone",
+      "before": "Africa/Addis Ababa",
+      "after": "Africa/Addis_Ababa",
+      "raw": "tz: 'GMT+03:00', gmt: 'Africa/Addis Ababa'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 315,
+      "message": "Normalized timezone from Africa/Dar es_Salaam to Africa/Dar_es_Salaam.",
+      "field": "timezone",
+      "before": "Africa/Dar es_Salaam",
+      "after": "Africa/Dar_es_Salaam",
+      "raw": "tz: 'GMT+03:00', gmt: 'Africa/Dar es_Salaam'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 389,
+      "message": "Normalized timezone from Asia/Ho Chi_Minh to Asia/Ho_Chi_Minh.",
+      "field": "timezone",
+      "before": "Asia/Ho Chi_Minh",
+      "after": "Asia/Ho_Chi_Minh",
+      "raw": "tz: 'GMT+07:00', gmt: 'Asia/Ho Chi_Minh'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 395,
+      "message": "Normalized timezone from Asia/Phnom Penh to Asia/Phnom_Penh.",
+      "field": "timezone",
+      "before": "Asia/Phnom Penh",
+      "after": "Asia/Phnom_Penh",
+      "raw": "tz: 'GMT+07:00', gmt: 'Asia/Phnom Penh'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 403,
+      "message": "Normalized timezone from Asia/Hong Kong to Asia/Hong_Kong.",
+      "field": "timezone",
+      "before": "Asia/Hong Kong",
+      "after": "Asia/Hong_Kong",
+      "raw": "tz: 'GMT+08:00', gmt: 'Asia/Hong Kong'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 405,
+      "message": "Normalized timezone from Asia/Kuala Lumpur to Asia/Kuala_Lumpur.",
+      "field": "timezone",
+      "before": "Asia/Kuala Lumpur",
+      "after": "Asia/Kuala_Lumpur",
+      "raw": "tz: 'GMT+08:00', gmt: 'Asia/Kuala Lumpur'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 436,
+      "message": "Normalized timezone from Pacific/Port Moresby to Pacific/Port_Moresby.",
+      "field": "timezone",
+      "before": "Pacific/Port Moresby",
+      "after": "Pacific/Port_Moresby",
+      "raw": "tz: 'GMT+10:00', gmt: 'Pacific/Port Moresby'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 439,
+      "message": "Normalized timezone from Australia/Broken Hill to Australia/Broken_Hill.",
+      "field": "timezone",
+      "before": "Australia/Broken Hill",
+      "after": "Australia/Broken_Hill",
+      "raw": "tz: 'GMT+10:30', gmt: 'Australia/Broken Hill'"
+    },
+    {
+      "level": "warning",
+      "sourceFile": "raw-data/timezone.txt",
+      "line": 447,
+      "message": "Normalized timezone from Australia/Lord Howe to Australia/Lord_Howe.",
+      "field": "timezone",
+      "before": "Australia/Lord Howe",
+      "after": "Australia/Lord_Howe",
+      "raw": "tz: 'GMT+11:00', gmt: 'Australia/Lord Howe'"
+    }
+  ],
+  "errors": []
+}

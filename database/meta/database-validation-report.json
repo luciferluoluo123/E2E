@@ -1,0 +1,103 @@
+{
+  "checkedAt": "2026-05-30T17:31:13.730Z",
+  "ruleVersion": "phase-3-database-validation",
+  "databaseVersion": "db-v1",
+  "passed": true,
+  "score": 100,
+  "totalFiles": 8,
+  "totalRecords": 2830,
+  "validRecords": 2830,
+  "invalidRecords": 0,
+  "files": [
+    {
+      "filePath": "database/country/countries.json",
+      "collection": "country",
+      "databaseVersion": "db-v1",
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "totalRecords": 247,
+      "validRecords": 247,
+      "invalidRecords": 0,
+      "passed": true
+    },
+    {
+      "filePath": "database/locale/country-languages.json",
+      "collection": "countryLanguages",
+      "databaseVersion": "db-v1",
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "totalRecords": 243,
+      "validRecords": 243,
+      "invalidRecords": 0,
+      "passed": true
+    },
+    {
+      "filePath": "database/locale/ui-languages.json",
+      "collection": "uiLanguages",
+      "databaseVersion": "db-v1",
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "totalRecords": 84,
+      "validRecords": 84,
+      "invalidRecords": 0,
+      "passed": true
+    },
+    {
+      "filePath": "database/timezone/timezones.json",
+      "collection": "timezones",
+      "databaseVersion": "db-v1",
+      "ruleVersion": "phase-4.0.7-timezone-normalization-fix",
+      "totalRecords": 478,
+      "validRecords": 478,
+      "invalidRecords": 0,
+      "passed": true
+    },
+    {
+      "filePath": "database/timezone/country-timezones.json",
+      "collection": "countryTimezones",
+      "databaseVersion": "db-v1",
+      "ruleVersion": "phase-4.0.6-manual-country-timezone-seed",
+      "totalRecords": 20,
+      "validRecords": 20,
+      "invalidRecords": 0,
+      "passed": true
+    },
+    {
+      "filePath": "database/fonts/windows-fonts.json",
+      "collection": "windowsFonts",
+      "databaseVersion": "db-v1",
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "totalRecords": 851,
+      "validRecords": 851,
+      "invalidRecords": 0,
+      "passed": true
+    },
+    {
+      "filePath": "database/fonts/browser-fonts.json",
+      "collection": "browserFonts",
+      "databaseVersion": "db-v1",
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "totalRecords": 851,
+      "validRecords": 851,
+      "invalidRecords": 0,
+      "passed": true
+    },
+    {
+      "filePath": "database/os/windows.json",
+      "collection": "windowsOs",
+      "databaseVersion": "db-v1",
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "totalRecords": 56,
+      "validRecords": 56,
+      "invalidRecords": 0,
+      "passed": true
+    }
+  ],
+  "warnings": [
+    {
+      "level": "warning",
+      "filePath": "database/meta/import-report.json",
+      "field": "invalidRecords",
+      "reason": "Importer reported invalid records; they are preserved in import warnings/errors and require human review.",
+      "value": 66
+    }
+  ],
+  "errors": []
+}

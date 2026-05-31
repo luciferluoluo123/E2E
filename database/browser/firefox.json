@@ -1,0 +1,27 @@
+{
+  "databaseVersion": "db-v1",
+  "ruleVersion": "phase-4.4-browser-rule-v1",
+  "schemaVersion": "schema-v1",
+  "collection": "browserFirefox",
+  "generatedBy": "ManualRuleSeed",
+  "source": "manual-browser-rule-v1",
+  "confidence": "medium",
+  "records": [
+    {
+      "id": "firefox-128",
+      "name": "Firefox",
+      "majorVersion": 128,
+      "weight": 60,
+      "source": "manual-browser-rule-v1",
+      "confidence": "medium"
+    },
+    {
+      "id": "firefox-127",
+      "name": "Firefox",
+      "majorVersion": 127,
+      "weight": 40,
+      "source": "manual-browser-rule-v1",
+      "confidence": "medium"
+    }
+  ]
+}

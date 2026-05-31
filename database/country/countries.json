@@ -1,0 +1,1985 @@
+{
+  "databaseVersion": "db-v1",
+  "ruleVersion": "phase-2.5-schema-freeze",
+  "collection": "country",
+  "generatedBy": "Importer",
+  "generatedAt": "2026-05-30T17:00:25.721Z",
+  "records": [
+    {
+      "countryCode": "AD",
+      "countryName": "Andorra",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AE",
+      "countryName": "United Arab Emirates",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AF",
+      "countryName": "Afghanistan",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AG",
+      "countryName": "Antigua & Barbuda",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AI",
+      "countryName": "Anguilla",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AL",
+      "countryName": "Albania",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AM",
+      "countryName": "Armenia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AO",
+      "countryName": "Angola",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AQ",
+      "countryName": "Antarctica",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AR",
+      "countryName": "Argentina",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AS",
+      "countryName": "American Samoa",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AT",
+      "countryName": "Austria",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AU",
+      "countryName": "Australia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AW",
+      "countryName": "Aruba",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AX",
+      "countryName": "_land Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "AZ",
+      "countryName": "Azerbaijan",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BA",
+      "countryName": "Bosnia & Herzegovina",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BB",
+      "countryName": "Barbados",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BD",
+      "countryName": "Bangladesh",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BE",
+      "countryName": "Belgium",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BF",
+      "countryName": "Burkina",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BG",
+      "countryName": "Bulgaria",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BH",
+      "countryName": "Bahrain",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BI",
+      "countryName": "Burundi",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BJ",
+      "countryName": "Benin",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BL",
+      "countryName": "Saint Barthélemy",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BM",
+      "countryName": "Bermuda",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BN",
+      "countryName": "Brunei",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BO",
+      "countryName": "Bolivia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BQ",
+      "countryName": "Caribbean Netherlands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BR",
+      "countryName": "Brazil",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BS",
+      "countryName": "The Bahamas",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BT",
+      "countryName": "Bhutan",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BV",
+      "countryName": "Bouvet Island",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BW",
+      "countryName": "Botswana",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BY",
+      "countryName": "Belarus",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "BZ",
+      "countryName": "Belize",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CA",
+      "countryName": "Canada",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CC",
+      "countryName": "Cocos (Keeling) Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CF",
+      "countryName": "Central African Republic",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CH",
+      "countryName": "Switzerland",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CL",
+      "countryName": "Chile",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CM",
+      "countryName": "Cameroon",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CO",
+      "countryName": "Colombia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CR",
+      "countryName": "Costa Rica",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CU",
+      "countryName": "Cuba",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CV",
+      "countryName": "Cape Verde",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CX",
+      "countryName": "Christmas Island",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CY",
+      "countryName": "Cyprus",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CZ",
+      "countryName": "Czech Republic",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "DE",
+      "countryName": "Germany",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "DJ",
+      "countryName": "Djibouti",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "DK",
+      "countryName": "Denmark",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "DM",
+      "countryName": "Dominica",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "DO",
+      "countryName": "Dominican Republic",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "DZ",
+      "countryName": "Algeria",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "EC",
+      "countryName": "Ecuador",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "EE",
+      "countryName": "Estonia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "EG",
+      "countryName": "Egypt",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "EH",
+      "countryName": "Western Sahara",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ER",
+      "countryName": "Eritrea",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ES",
+      "countryName": "Spain",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "FI",
+      "countryName": "Finland",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "FJ",
+      "countryName": "Fiji",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "FK",
+      "countryName": "Falkland Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "FM",
+      "countryName": "Federated States of Micronesia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "FO",
+      "countryName": "Faroe Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "FR",
+      "countryName": "France",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GA",
+      "countryName": "Gabon",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GD",
+      "countryName": "Grenada",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GE",
+      "countryName": "Georgia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GF",
+      "countryName": "French Guiana",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GH",
+      "countryName": "Ghana",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GI",
+      "countryName": "Gibraltar",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GL",
+      "countryName": "Greenland",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GN",
+      "countryName": "Guinea",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GP",
+      "countryName": "Guadeloupe",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GQ",
+      "countryName": "Equatorial Guinea",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GR",
+      "countryName": "Greece",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GS",
+      "countryName": "South Georgia and the South Sandwich Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GT",
+      "countryName": "Guatemala",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GU",
+      "countryName": "Guam",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GW",
+      "countryName": "Guinea-Bissau",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GY",
+      "countryName": "Guyana",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "HK",
+      "countryName": "China Hong Kong",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "HM",
+      "countryName": "Heard Island and McDonald Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "HN",
+      "countryName": "Honduras",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "HR",
+      "countryName": "Croatia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "HT",
+      "countryName": "Haiti",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "HU",
+      "countryName": "Hungary",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ID",
+      "countryName": "Indonesia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IE",
+      "countryName": "Ireland",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IL",
+      "countryName": "Israel",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IM",
+      "countryName": "Isle of Man",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IN",
+      "countryName": "India",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IO",
+      "countryName": "British Indian Ocean Territory",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IQ",
+      "countryName": "Iraq",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IR",
+      "countryName": "Iran",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IS",
+      "countryName": "Iceland",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "IT",
+      "countryName": "Italy",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "JE",
+      "countryName": "Jersey",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "JM",
+      "countryName": "Jamaica",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "JO",
+      "countryName": "Jordan",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "JP",
+      "countryName": "Japan",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KH",
+      "countryName": "Cambodia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KI",
+      "countryName": "Kiribati",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KM",
+      "countryName": "The Comoros",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KW",
+      "countryName": "Kuwait",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KY",
+      "countryName": "Cayman Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LB",
+      "countryName": "Lebanon",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LI",
+      "countryName": "Liechtenstein",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LK",
+      "countryName": "Sri Lanka",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LR",
+      "countryName": "Liberia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LS",
+      "countryName": "Lesotho",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LT",
+      "countryName": "Lithuania",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LU",
+      "countryName": "Luxembourg",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LV",
+      "countryName": "Latvia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LY",
+      "countryName": "Libya",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MA",
+      "countryName": "Morocco",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MC",
+      "countryName": "Monaco",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MD",
+      "countryName": "Moldova",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ME",
+      "countryName": "Montenegro",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MF",
+      "countryName": "Saint Martin (France)",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MG",
+      "countryName": "Madagascar",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MH",
+      "countryName": "Marshall islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MK",
+      "countryName": "Republic of Macedonia (FYROM)",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ML",
+      "countryName": "Mali",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MM",
+      "countryName": "Myanmar (Burma)",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MO",
+      "countryName": "China Macao",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MQ",
+      "countryName": "Martinique",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MR",
+      "countryName": "Mauritania",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MS",
+      "countryName": "Montserrat",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MT",
+      "countryName": "Malta",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MV",
+      "countryName": "Maldives",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MW",
+      "countryName": "Malawi",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MX",
+      "countryName": "Mexico",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MY",
+      "countryName": "Malaysia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NA",
+      "countryName": "Namibia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NE",
+      "countryName": "Niger",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NF",
+      "countryName": "Norfolk Island",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NG",
+      "countryName": "Nigeria",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NI",
+      "countryName": "Nicaragua",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NL",
+      "countryName": "Netherlands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NO",
+      "countryName": "Norway",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NP",
+      "countryName": "Nepal",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NR",
+      "countryName": "Nauru",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "OM",
+      "countryName": "Oman",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PA",
+      "countryName": "Panama",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PE",
+      "countryName": "Peru",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PF",
+      "countryName": "French polynesia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PG",
+      "countryName": "Papua New Guinea",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PH",
+      "countryName": "The Philippines",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PK",
+      "countryName": "Pakistan",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PL",
+      "countryName": "Poland",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PN",
+      "countryName": "Pitcairn Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PR",
+      "countryName": "Puerto Rico",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PS",
+      "countryName": "Palestinian territories",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PW",
+      "countryName": "Palau",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PY",
+      "countryName": "Paraguay",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "QA",
+      "countryName": "Qatar",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "RE",
+      "countryName": "Réunion",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "RO",
+      "countryName": "Romania",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "RS",
+      "countryName": "Serbia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "RU",
+      "countryName": "Russian Federation",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "RW",
+      "countryName": "Rwanda",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SB",
+      "countryName": "Solomon Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SC",
+      "countryName": "Seychelles",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SD",
+      "countryName": "Sudan",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SE",
+      "countryName": "Sweden",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SG",
+      "countryName": "Singapore",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SI",
+      "countryName": "Slovenia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SJ",
+      "countryName": "Template:Country data SJM Svalbard",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SK",
+      "countryName": "Slovakia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SL",
+      "countryName": "Sierra Leone",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SM",
+      "countryName": "San Marino",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SN",
+      "countryName": "Senegal",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SO",
+      "countryName": "Somalia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SR",
+      "countryName": "Suriname",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SS",
+      "countryName": "South Sudan",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ST",
+      "countryName": "Sao Tome & Principe",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SV",
+      "countryName": "El Salvador",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SY",
+      "countryName": "Syria",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SZ",
+      "countryName": "Swaziland",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TC",
+      "countryName": "Turks & Caicos Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TD",
+      "countryName": "Chad",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TG",
+      "countryName": "Togo",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TH",
+      "countryName": "Thailand",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TK",
+      "countryName": "Tokelau",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TL",
+      "countryName": "Timor-Leste (East Timor)",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TN",
+      "countryName": "Tunisia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TO",
+      "countryName": "Tonga",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TR",
+      "countryName": "Turkey",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TV",
+      "countryName": "Tuvalu",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TZ",
+      "countryName": "Tanzania",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "UA",
+      "countryName": "Ukraine",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "UG",
+      "countryName": "Uganda",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "US",
+      "countryName": "United States of America (USA)",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "UY",
+      "countryName": "Uruguay",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "VA",
+      "countryName": "Vatican City (The Holy See)",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "VE",
+      "countryName": "Venezuela",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "VG",
+      "countryName": "British Virgin Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "VI",
+      "countryName": "United States Virgin Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "VN",
+      "countryName": "Vietnam",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "WF",
+      "countryName": "Wallis and Futuna",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "WS",
+      "countryName": "Samoa",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "YE",
+      "countryName": "Yemen",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "YT",
+      "countryName": "Mayotte",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ZA",
+      "countryName": "South Africa",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ZM",
+      "countryName": "Zambia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ZW",
+      "countryName": "Zimbabwe",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CN",
+      "countryName": "China",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CG",
+      "countryName": "Republic of the Congo",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CD",
+      "countryName": "Democratic Republic of the Congo",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MZ",
+      "countryName": "Mozambique",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GG",
+      "countryName": "Guernsey",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GM",
+      "countryName": "Gambia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MP",
+      "countryName": "Northern Mariana Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "ET",
+      "countryName": "Ethiopia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NC",
+      "countryName": "New Caledonia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "VU",
+      "countryName": "Vanuatu",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TF",
+      "countryName": "French Southern Territories",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NU",
+      "countryName": "Niue",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "UM",
+      "countryName": "United States Minor Outlying Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CK",
+      "countryName": "Cook Islands",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "GB",
+      "countryName": "Great Britain",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TT",
+      "countryName": "Trinidad & Tobago",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "VC",
+      "countryName": "St. Vincent & the Grenadines",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TW",
+      "countryName": "China Taiwan",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "NZ",
+      "countryName": "New Zealand",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SA",
+      "countryName": "Saudi Arabia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LA",
+      "countryName": "Laos",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KP",
+      "countryName": "North Korea",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KR",
+      "countryName": "South Korea",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PT",
+      "countryName": "Portugal",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KG",
+      "countryName": "Kyrgyzstan",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KZ",
+      "countryName": "Kazakhstan",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TJ",
+      "countryName": "Tajikistan",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "TM",
+      "countryName": "Turkmenistan",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "UZ",
+      "countryName": "Uzbekistan",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KN",
+      "countryName": "St. Kitts & Nevis",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "PM",
+      "countryName": "Saint-Pierre and Miquelon",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "SH",
+      "countryName": "St. Helena & Dependencies",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "LC",
+      "countryName": "St. Lucia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MU",
+      "countryName": "Mauritius",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "CI",
+      "countryName": "C_te d\\'Ivoire",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "KE",
+      "countryName": "Kenya",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "countryCode": "MN",
+      "countryName": "Mongolia",
+      "source": "raw-data/country-code.txt",
+      "confidence": 0.95,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    }
+  ]
+}

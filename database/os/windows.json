@@ -1,0 +1,569 @@
+{
+  "databaseVersion": "db-v1",
+  "ruleVersion": "phase-2.5-schema-freeze",
+  "collection": "windowsOs",
+  "generatedBy": "Importer",
+  "generatedAt": "2026-05-30T17:00:25.721Z",
+  "records": [
+    {
+      "osName": "Arial",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Calibri",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Cambria Math",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Cambria",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Candara",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Comic Sans MS",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Consolas",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Constantia",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Corbel",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Courier New",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Ebrima",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Franklin Gothic",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Gabriola",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Georgia",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Impact",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Times New Roman",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Lucida Console",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Lucida Sans Unicode",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "MS Gothic",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "MS PGothic",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "MV Boli",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Malgun Gothic",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Marlett",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Microsoft Himalaya",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Microsoft JhengHei",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Microsoft New Tai Lue",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Microsoft PhagsPa",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Microsoft Sans Serif",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Microsoft YaHei",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Microsoft Yi Baiti",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "MingLiU-ExtB",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Mongolian Baiti",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "PMingLiU-ExtB",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Palatino Linotype",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Segoe Print",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Segoe Script",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Segoe UI Symbol",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Segoe UI",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "SimSun",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "SimSun-ExtB",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Sylfaen",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Trebuchet MS",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Verdana",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Webdings",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Gadugi",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Javanese Text",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Microsoft JhengHei UI",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Myanmar Text",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Sitka Small",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Yu Gothic",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "MS UI Gothic",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Microsoft Tai Le",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "MingLiU_HKSCS-ExtB",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Symbol",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Segoe UI Emoji",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "osName": "Bahnschrift",
+      "version": "",
+      "build": "",
+      "architecture": "",
+      "source": "raw-data/os/windows.txt",
+      "confidence": 0.45,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    }
+  ]
+}

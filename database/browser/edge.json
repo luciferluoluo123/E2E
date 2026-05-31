@@ -1,0 +1,27 @@
+{
+  "databaseVersion": "db-v1",
+  "ruleVersion": "phase-4.4-browser-rule-v1",
+  "schemaVersion": "schema-v1",
+  "collection": "browserEdge",
+  "generatedBy": "ManualRuleSeed",
+  "source": "manual-browser-rule-v1",
+  "confidence": "medium",
+  "records": [
+    {
+      "id": "edge-138",
+      "name": "Edge",
+      "majorVersion": 138,
+      "weight": 70,
+      "source": "manual-browser-rule-v1",
+      "confidence": "medium"
+    },
+    {
+      "id": "edge-137",
+      "name": "Edge",
+      "majorVersion": 137,
+      "weight": 30,
+      "source": "manual-browser-rule-v1",
+      "confidence": "medium"
+    }
+  ]
+}

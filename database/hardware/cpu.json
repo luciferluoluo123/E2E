@@ -1,0 +1,41 @@
+{
+  "databaseVersion": "db-v1",
+  "ruleVersion": "phase-4.2-hardware-rule-seed",
+  "collection": "hardwareCpu",
+  "generatedBy": "ManualRuleSeed",
+  "generatedAt": "2026-05-30T00:00:00.000Z",
+  "records": [
+    {
+      "id": "cpu-low-001",
+      "name": "MVP Low CPU",
+      "tier": "low",
+      "weight": 3,
+      "source": "manual-hardware-rule-v1",
+      "confidence": "medium"
+    },
+    {
+      "id": "cpu-mid-001",
+      "name": "MVP Mid CPU",
+      "tier": "mid",
+      "weight": 5,
+      "source": "manual-hardware-rule-v1",
+      "confidence": "medium"
+    },
+    {
+      "id": "cpu-high-001",
+      "name": "MVP High CPU",
+      "tier": "high",
+      "weight": 3,
+      "source": "manual-hardware-rule-v1",
+      "confidence": "medium"
+    },
+    {
+      "id": "cpu-extreme-001",
+      "name": "MVP Extreme CPU",
+      "tier": "extreme",
+      "weight": 1,
+      "source": "manual-hardware-rule-v1",
+      "confidence": "medium"
+    }
+  ]
+}

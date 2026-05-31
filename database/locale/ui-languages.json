@@ -1,0 +1,849 @@
+{
+  "databaseVersion": "db-v1",
+  "ruleVersion": "phase-2.5-schema-freeze",
+  "collection": "uiLanguages",
+  "generatedBy": "Importer",
+  "generatedAt": "2026-05-30T17:00:25.721Z",
+  "records": [
+    {
+      "code": "ar",
+      "prefix": "ar",
+      "englishName": "阿拉伯语",
+      "localName": "العربية",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "am",
+      "prefix": "am",
+      "englishName": "阿姆哈拉语",
+      "localName": "አማርኛ",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "et",
+      "prefix": "et",
+      "englishName": "爱沙尼亚语",
+      "localName": "eesti",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "bg",
+      "prefix": "bg",
+      "englishName": "保加利亚语",
+      "localName": "български",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "pl",
+      "prefix": "pl",
+      "englishName": "波兰语",
+      "localName": "polski",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "fa",
+      "prefix": "fa",
+      "englishName": "波斯语",
+      "localName": "فارسی",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "da",
+      "prefix": "da",
+      "englishName": "丹麦语",
+      "localName": "dansk",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "de",
+      "prefix": "de",
+      "englishName": "德语",
+      "localName": "Deutsch",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "de-AT",
+      "prefix": "de",
+      "englishName": "德语（奥地利）",
+      "localName": "Deutsch (Österreich)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "de-DE",
+      "prefix": "de",
+      "englishName": "德语（德国）",
+      "localName": "Deutsch (Deutschland)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "de-LI",
+      "prefix": "de",
+      "englishName": "德语（列支敦士登）",
+      "localName": "Deutsch (Liechtenstein)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "de-CH",
+      "prefix": "de",
+      "englishName": "德语（瑞士）",
+      "localName": "Deutsch (Schweiz)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "ru",
+      "prefix": "ru",
+      "englishName": "俄语",
+      "localName": "русский",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "fr",
+      "prefix": "fr",
+      "englishName": "法语",
+      "localName": "français",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "fr-FR",
+      "prefix": "fr",
+      "englishName": "法语（法国）",
+      "localName": "français (France)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "fr-CA",
+      "prefix": "fr",
+      "englishName": "法语（加拿大）",
+      "localName": "français (Canada)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "fr-CH",
+      "prefix": "fr",
+      "englishName": "法语（瑞士）",
+      "localName": "français (Suisse)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "fil",
+      "prefix": "fil",
+      "englishName": "菲律宾语",
+      "localName": "Filipino",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "fi",
+      "prefix": "fi",
+      "englishName": "芬兰语",
+      "localName": "suomi",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "gu",
+      "prefix": "gu",
+      "englishName": "古吉拉特语",
+      "localName": "ગુજરાતી",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "ko",
+      "prefix": "ko",
+      "englishName": "韩语",
+      "localName": "한국어",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "nl",
+      "prefix": "nl",
+      "englishName": "荷兰语",
+      "localName": "Nederlands",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "ca",
+      "prefix": "ca",
+      "englishName": "加泰罗尼亚语",
+      "localName": "català",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "cs",
+      "prefix": "cs",
+      "englishName": "捷克语",
+      "localName": "čeština",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "kn",
+      "prefix": "kn",
+      "englishName": "卡纳达语",
+      "localName": "ಕನ್ನಡ",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "hr",
+      "prefix": "hr",
+      "englishName": "克罗地亚语",
+      "localName": "hrvatski",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "lv",
+      "prefix": "lv",
+      "englishName": "拉脱维亚语",
+      "localName": "latviešu",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "lt",
+      "prefix": "lt",
+      "englishName": "立陶宛语",
+      "localName": "lietuvių",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "ro",
+      "prefix": "ro",
+      "englishName": "罗马尼亚语",
+      "localName": "română",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "mr",
+      "prefix": "mr",
+      "englishName": "马拉地语",
+      "localName": "मराठी",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "ml",
+      "prefix": "ml",
+      "englishName": "马拉雅拉姆语",
+      "localName": "മലയാളം",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "ms",
+      "prefix": "ms",
+      "englishName": "马来语",
+      "localName": "Melayu",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "bn",
+      "prefix": "bn",
+      "englishName": "孟加拉语",
+      "localName": "বাংলা",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "af",
+      "prefix": "af",
+      "englishName": "南非荷兰语",
+      "localName": "Afrikaans",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "pt",
+      "prefix": "pt",
+      "englishName": "葡萄牙语",
+      "localName": "português",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "pt-BR",
+      "prefix": "pt",
+      "englishName": "葡萄牙语（巴西）",
+      "localName": "português (Brasil)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "pt-PT",
+      "prefix": "pt",
+      "englishName": "葡萄牙语（葡萄牙）",
+      "localName": "português (Portugal)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "ja",
+      "prefix": "ja",
+      "englishName": "日语",
+      "localName": "日本語",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "sv",
+      "prefix": "sv",
+      "englishName": "瑞典语",
+      "localName": "svenska",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "sr",
+      "prefix": "sr",
+      "englishName": "塞尔维亚语",
+      "localName": "српски",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "nb",
+      "prefix": "nb",
+      "englishName": "书面挪威语",
+      "localName": "norsk bokmål",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "sk",
+      "prefix": "sk",
+      "englishName": "斯洛伐克语",
+      "localName": "slovenčina",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "sl",
+      "prefix": "sl",
+      "englishName": "斯洛文尼亚语",
+      "localName": "slovenščina",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "sw",
+      "prefix": "sw",
+      "englishName": "斯瓦希里语",
+      "localName": "Kiswahili",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "te",
+      "prefix": "te",
+      "englishName": "泰卢固语",
+      "localName": "తెలుగు",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "ta",
+      "prefix": "ta",
+      "englishName": "泰米尔语",
+      "localName": "தமிழ்",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "th",
+      "prefix": "th",
+      "englishName": "泰语",
+      "localName": "ไทย",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "tr",
+      "prefix": "tr",
+      "englishName": "土耳其语",
+      "localName": "Türkçe",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "ur",
+      "prefix": "ur",
+      "englishName": "乌尔都语",
+      "localName": "اردو",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "uk",
+      "prefix": "uk",
+      "englishName": "乌克兰语",
+      "localName": "українська",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "es",
+      "prefix": "es",
+      "englishName": "西班牙语",
+      "localName": "español",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "es-AR",
+      "prefix": "es",
+      "englishName": "西班牙语（阿根廷）",
+      "localName": "español (Argentina)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "es-CO",
+      "prefix": "es",
+      "englishName": "西班牙语（哥伦比亚）",
+      "localName": "español (Colombia)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "es-CR",
+      "prefix": "es",
+      "englishName": "西班牙语（哥斯达黎加）",
+      "localName": "español (Costa Rica)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "es-HN",
+      "prefix": "es",
+      "englishName": "西班牙语（洪都拉斯）",
+      "localName": "español (Honduras)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "es-419",
+      "prefix": "es",
+      "englishName": "西班牙语（拉丁美洲）",
+      "localName": "español (Latinoamérica)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "es-US",
+      "prefix": "es",
+      "englishName": "西班牙语（美国）",
+      "localName": "español (Estados Unidos)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "es-PE",
+      "prefix": "es",
+      "englishName": "西班牙语（秘鲁）",
+      "localName": "español (Perú)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "es-MX",
+      "prefix": "es",
+      "englishName": "西班牙语（墨西哥）",
+      "localName": "español (México)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "es-VE",
+      "prefix": "es",
+      "englishName": "西班牙语（委内瑞拉）",
+      "localName": "español (Venezuela)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "es-UY",
+      "prefix": "es",
+      "englishName": "西班牙语（乌拉圭）",
+      "localName": "español (Uruguay)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "es-ES",
+      "prefix": "es",
+      "englishName": "西班牙语（西班牙）",
+      "localName": "español (España)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "es-CL",
+      "prefix": "es",
+      "englishName": "西班牙语（智利）",
+      "localName": "español (Chile)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "he",
+      "prefix": "he",
+      "englishName": "希伯来语",
+      "localName": "עברית",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "el",
+      "prefix": "el",
+      "englishName": "希腊语",
+      "localName": "Ελληνικά",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "hu",
+      "prefix": "hu",
+      "englishName": "匈牙利语",
+      "localName": "magyar",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "it",
+      "prefix": "it",
+      "englishName": "意大利语",
+      "localName": "italiano",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "it-CH",
+      "prefix": "it",
+      "englishName": "意大利语（瑞士）",
+      "localName": "italiano (Svizzera)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "it-IT",
+      "prefix": "it",
+      "englishName": "意大利语（意大利）",
+      "localName": "italiano (Italia)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "hi",
+      "prefix": "hi",
+      "englishName": "印地语",
+      "localName": "हिन्दी",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "id",
+      "prefix": "id",
+      "englishName": "印度尼西亚语",
+      "localName": "Indonesia",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "en",
+      "prefix": "en",
+      "englishName": "英语",
+      "localName": "English",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "en-IE",
+      "prefix": "en",
+      "englishName": "英语（爱尔兰）",
+      "localName": "English (Ireland)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "en-AU",
+      "prefix": "en",
+      "englishName": "英语（澳大利亚）",
+      "localName": "English (Australia)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "en-CA",
+      "prefix": "en",
+      "englishName": "英语（加拿大）",
+      "localName": "English (Canada)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "en-US",
+      "prefix": "en",
+      "englishName": "英语（美国）",
+      "localName": "English (United States)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "en-ZA",
+      "prefix": "en",
+      "englishName": "英语（南非）",
+      "localName": "English (South Africa)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "en-NZ",
+      "prefix": "en",
+      "englishName": "英语（新西兰）",
+      "localName": "English (New Zealand)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "en-IN",
+      "prefix": "en",
+      "englishName": "英语（印度）",
+      "localName": "English (India)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "en-GB-OXENDICT",
+      "prefix": "en",
+      "englishName": "英语（英国，《牛津英语词典》拼法）",
+      "localName": "English (United Kingdom, Oxford English Dictionary spelling)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "en-GB",
+      "prefix": "en",
+      "englishName": "英语（英国）",
+      "localName": "English (United Kingdom)",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "vi",
+      "prefix": "vi",
+      "englishName": "越南语",
+      "localName": "Tiếng Việt",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "zh-TW",
+      "prefix": "zh",
+      "englishName": "中文（繁体）",
+      "localName": "中文（繁體）",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    },
+    {
+      "code": "zh-CN",
+      "prefix": "zh",
+      "englishName": "中文（简体）",
+      "localName": "中文（简体）",
+      "source": "raw-data/ui-language.txt",
+      "confidence": 0.8,
+      "ruleVersion": "phase-2.5-schema-freeze",
+      "databaseVersion": "db-v1"
+    }
+  ]
+}
